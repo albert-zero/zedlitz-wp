@@ -13,7 +13,7 @@ wp.blocks.registerBlockType('zedlitz/selector', {
 	attributes: {
 		selected:{ 
 			type:    'string', 
-			default: 'DE_de'
+			default: 'de_DE'
 		},
 	},
 
@@ -29,10 +29,10 @@ wp.blocks.registerBlockType('zedlitz/selector', {
 			  onchange: "onĆhangeSelection(this)",
 			}, 
 			wp.element.createElement("option", {
-			  value: "DE_de"
+			  value: "de_DE"
 			}, "de"), 
 			wp.element.createElement("option", {
-			  value: "EN_en"
+			  value: "en_EN"
 			}, "en"));
 	},
 	
@@ -43,12 +43,12 @@ wp.blocks.registerBlockType('zedlitz/selector', {
 			  onchange: "doSelectLanguage(this)"
 			}, 
 			wp.element.createElement("option", {
-			  selected: ( props.attributes.selected == "DE_de" ),
-			  value: "DE_de"
+			  selected: ( props.attributes.selected == "de_DE" ),
+			  value: "de_DE"
 			}, "de"), 
 			wp.element.createElement("option", {
-			  selected: ( props.attributes.selected == "EN_en" ),
-			  value: "EN_en"
+			  selected: ( props.attributes.selected == "en_EN" ),
+			  value: "en_EN"
 			}, "en"));    
 	} } 
 )

@@ -75,7 +75,8 @@ async function doTranslate(bLazy = true) {
 	    // The locale selector has to be switched to the correct value
 		var aLocale           = sessionStorage.getItem("language");
 		var aLocaleSelector   = document.getElementById("zedlitz-language-selector");
-		aLocaleSelector.value = aLocale; 
+		
+		aLocale = aLocaleSelector.value; 
 		
 		if (aLocale == "de_DE" && bLazy) {
 			return;
