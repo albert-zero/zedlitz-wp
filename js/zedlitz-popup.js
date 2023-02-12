@@ -13,7 +13,6 @@
  *   Start script on load 
  *   This is the method called for each page by environment
  */
-
 window.addEventListener( "load", zedlitz_setup );
 
 /**
@@ -21,7 +20,7 @@ window.addEventListener( "load", zedlitz_setup );
  */
 async function loadTranslationFile() {
 	/* global_vars is created by the calling PHP script, which sets the plugin path */
-	return fetch('/wp-content/plugins/zedlitz-wp/' + "locales/content.json")
+	return fetch(global_vars.plugin_path + "locales/content.json")
 			.then((aResponse) => aResponse.text())
 			.then((aJsnText)  => sessionStorage.setItem("translation_jsn_txt", aJsnText));
 }
