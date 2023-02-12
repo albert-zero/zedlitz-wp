@@ -1,0 +1,39 @@
+@charset "utf-8";
+ /* Autor: Albert Zedlitz         */
+ /* Style Sheet for the popup box */
+
+.zedlitz-img-detail:hover {
+    cursor      : zoom-in;	
+}
+
+.zedlitz-img-popup {
+	background-color: LightGray;
+	position    : absolute;
+    overflow    : clip;
+    padding     : 0;
+    border-width: 0;		 	    
+	height      : 600px;	
+}
+   
+.zedlitz-img-small {
+	height      : 600px;	
+	padding     : 0;
+	margin      : 0;	
+}
+
+/* The close button is a text field at the upper right side */
+.zedlitz-img-popup-close {
+	position    : absolute;
+	right       : 0;
+	top         : 0;
+	margin      : 0;
+	padding     : 0;
+	font-size   : 200%;
+	line-height : 80%;
+	background-color: LightGray;
+}
+
+.zedlitz-img-popup-close:hover {
+    cursor      : pointer;
+	background-color: green;			
+}

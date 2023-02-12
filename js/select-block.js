@@ -11,20 +11,25 @@ wp.blocks.registerBlockType('zedlitz/selector', {
 	icon:      'editor-ul',
 	category:  'widgets',
 	attributes: {
-		selected:{ type: 'string' },
-	},
-	supports: {
-		"color":    true
+		selected:{ 
+			type:    'string', 
+			default: 'DE_de'
+		},
 	},
 
 	edit: function( props ) {
+		function onĆhangeSelection(element) {
+			props.setAttributes( { selected : element.value } );
+			doSelectLanguage(element);
+		};
+
 		return wp.element.createElement("select", {
 			  class: "zedlitz-language-selector",
-			  id: "zedlitz-language-selector",
-			  onchange: "doSelectLanguage(this)",
+			  id:    "zedlitz-language-selector",
+			  onchange: "onĆhangeSelection(this)",
 			}, 
 			wp.element.createElement("option", {
-			  value: "DE_de",
+			  value: "DE_de"
 			}, "de"), 
 			wp.element.createElement("option", {
 			  value: "EN_en"
@@ -34,13 +39,15 @@ wp.blocks.registerBlockType('zedlitz/selector', {
 	save: function( props ) {
 		return wp.element.createElement("select", {
 			  class: "zedlitz-language-selector",
-			  id: "zedlitz-language-selector",
+			  id:    "zedlitz-language-selector",
 			  onchange: "doSelectLanguage(this)"
 			}, 
 			wp.element.createElement("option", {
+			  selected: ( props.attributes.selected == "DE_de" ),
 			  value: "DE_de"
 			}, "de"), 
 			wp.element.createElement("option", {
+			  selected: ( props.attributes.selected == "EN_en" ),
 			  value: "EN_en"
 			}, "en"));    
 	} } 
