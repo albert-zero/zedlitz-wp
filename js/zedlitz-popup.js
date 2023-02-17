@@ -107,7 +107,13 @@ async function doTranslate(bLazy = true) {
 					doTranslateNested(aElementList[i], aTranslationJsnObj, aVal, "FIGCAPTION");
 				}
 				else {
-		    		aElementList[i].innerHTML = aVal;
+					/* we want to keep the style, so toggle down to mark if exists */
+					var aElement  = aElementList[i];
+					var aMarkTag  = aElement.getElementsByTagName("mark");
+		    		if (aMarkTag.length > 0) {
+						aElement = aMarkTag[0];
+					}
+		    		aElement.innerHTML = aVal;
 		    	}
 		    }
 	    }
