@@ -1,2 +1,2 @@
-# zedlitz-wp
+# zeolite-wp
  Plugin for WordPress

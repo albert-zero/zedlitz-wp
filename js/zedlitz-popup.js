@@ -42,7 +42,7 @@ function doSelectLanguage(aLocaleSelector) {
  * The msgstr is a set of keys, one for each table cell
  * The msgid/msgstr pair of these keys have to be defined in another place
  */			
-async function doTranslateNested(aElement, aTranslationJsnObj, aValue, aTag) {
+function doTranslateNested(aElement, aTranslationJsnObj, aValue, aTag) {
 	const aKeys  = aValue.split(",");
 	const aCells = aElement.getElementsByTagName(aTag);
 	var   aKey;
@@ -51,7 +51,34 @@ async function doTranslateNested(aElement, aTranslationJsnObj, aValue, aTag) {
 	    if (aKey in aTranslationJsnObj) {
 			aCells[i].innerHTML = aTranslationJsnObj[aKey];
 		}
+		else {
+			aCells[i].innerHTML = aKey;			
+		}
 	}
+}
+
+/**
+ * This function translates nested keys in a string defined in curly brackets
+ * "... {key1] ... {key2} ..."
+ * If you need brackets as output, you would need to HTML escape &#123; &#125;
+ */
+function doTranslateAttr(aTranslationJsnObj, aValue) {
+    var xResult  = aValue;
+	var xRegExp  = /{([\w-]+)}/g;
+    var xTranslate;
+	const xArray = [ ...aValue.matchAll(xRegExp)];
+	
+	xArray.forEach(function(xKey) { 
+			if (xKey[1] in aTranslationJsnObj) {
+				xTranslate = aTranslationJsnObj[xKey[1]];
+				xResult    = xResult.replace(xKey[0], xTranslate);	
+			}
+			else {
+				xResult    = xResult.replace(xKey[0], "");
+			}
+		}
+	);
+	return xResult;
 }
 
 /**
@@ -96,7 +123,9 @@ async function doTranslate(bLazy = true) {
 	    for (i = 0; i < aElementList.length; i++) {
 		    aKey = aElementList[i].getAttribute("data-zedlitz-i18n");
 			if (aKey in aTranslationJsnObj) {
-		    	aVal =  aTranslationJsnObj[aKey];	
+		    	aVal = aTranslationJsnObj[aKey];	
+				aVal = doTranslateAttr(aTranslationJsnObj, aVal);
+				
 				if (aKey.match(/^table-keys/)) {
 					doTranslateNested(aElementList[i], aTranslationJsnObj, aVal, "TD");
 				}
