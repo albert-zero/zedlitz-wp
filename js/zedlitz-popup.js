@@ -36,47 +36,45 @@ function doSelectLanguage(aLocaleSelector) {
 }
 
 /**
- * Translate a table. The data- attribute is to positioned to the table cell,
- * so we do some special adoptions:
- * The table get a specific msgid key starting with "table-keys"
- * The msgstr is a set of keys, one for each table cell
- * The msgid/msgstr pair of these keys have to be defined in another place
+ * Use a comma seprated list of values of translation elements for
+ * table, menues and figure-captions 
+ * The msgstr is a set of keys, one for each specified tag in the element child list
+ * If you need a comma you would need to use &#44;
  */			
-function doTranslateNested(aElement, aTranslationJsnObj, aValue, aTag) {
-	const aKeys  = aValue.split(",");
+function doTranslateNested(aElement, aValue, aTag) {
+	const aArray = aValue.split(",");
 	const aCells = aElement.getElementsByTagName(aTag);
-	var   aKey;
-	for (var i = 0; i < aCells.length && i < aKeys.length; i++) {
-	    aKey = aKeys[i].trim();
-	    if (aKey in aTranslationJsnObj) {
-			aCells[i].innerHTML = aTranslationJsnObj[aKey];
-		}
-		else {
-			aCells[i].innerHTML = aKey;			
-		}
+	for (var i = 0; i < aCells.length && i < aArray.length; i++) {
+		aCells[i].innerHTML = aArray[i].trim();
 	}
 }
 
 /**
- * This function translates nested keys in a string defined in curly brackets
- * "... {key1] ... {key2} ..."
+ * This function translates nested keys in a string defined in curly brackets:
+ * => msgstr "... {key1] ... {key2} ..."
  * If you need brackets as output, you would need to HTML escape &#123; &#125;
  */
 function doTranslateAttr(aTranslationJsnObj, aValue) {
     var xResult  = aValue;
-	var xRegExp  = /{([\w-]+)}/g;
+    var xRegCap  = /(\b[a-z])([\w]+)/g; // match all words starting with lower case
+	var xRegExp  = /{([\w-]+)}/g;       // match all entrues in curly brackets
     var xTranslate;
 	const xArray = [ ...aValue.matchAll(xRegExp)];
 	
-	xArray.forEach(function(xKey) { 
-			if (xKey[1] in aTranslationJsnObj) {
-				xTranslate = aTranslationJsnObj[xKey[1]];
-				xResult    = xResult.replace(xKey[0], xTranslate);	
+	xArray.forEach(function(xKey) {
+		var xKeyCase = xKey[1].toLowerCase();
+		
+		if (xKeyCase in aTranslationJsnObj) {
+			xTranslate = aTranslationJsnObj[xKeyCase];
+			
+			if (xKeyCase != xKey[1]) {
+				xTranslate = xTranslate.replace(xRegCap, function(x, y, z) { return y.toUpperCase() + z }); 	
 			}
-			else {
-				xResult    = xResult.replace(xKey[0], "");
-			}
+			xResult = xResult.replace(xKey[0], xTranslate);
 		}
+		else {
+			xResult = xResult.replace(xKey[0], "");
+		}}
 	);
 	return xResult;
 }
@@ -120,23 +118,24 @@ async function doTranslate(bLazy = true) {
 	    // Find tagged elements and translate
 	    var aElementList = document.querySelectorAll("[data-zedlitz-i18n]");
 	    var i, aKey, aVal;
+	    
 	    for (i = 0; i < aElementList.length; i++) {
 		    aKey = aElementList[i].getAttribute("data-zedlitz-i18n");
 			if (aKey in aTranslationJsnObj) {
-		    	aVal = aTranslationJsnObj[aKey];	
+		    	aVal = aTranslationJsnObj[aKey];
 				aVal = doTranslateAttr(aTranslationJsnObj, aVal);
 				
 				if (aKey.match(/^table-keys/)) {
-					doTranslateNested(aElementList[i], aTranslationJsnObj, aVal, "TD");
+					doTranslateNested(aElementList[i], aVal, "TD");
 				}
 				else if (aKey.match(/^menu-keys/)) {
-					doTranslateNested(aElementList[i], aTranslationJsnObj, aVal, "SPAN");
+					doTranslateNested(aElementList[i], aVal, "SPAN");
 				}
 				else if (aKey.match(/^caption-keys/)) {
-					doTranslateNested(aElementList[i], aTranslationJsnObj, aVal, "FIGCAPTION");
+					doTranslateNested(aElementList[i], aVal, "FIGCAPTION");
 				}
 				else {
-					/* we want to keep the style, so toggle down to mark if exists */
+					/* we want to keep the style, so toggle down to <mark></mark> if exists */
 					var aElement  = aElementList[i];
 					var aMarkTag  = aElement.getElementsByTagName("mark");
 		    		if (aMarkTag.length > 0) {

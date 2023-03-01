@@ -1,0 +1,637 @@
+# 
+# Translation of HTML content
+# Copyright (C) 2022 ZedlitzArt
+# Albert Zedlitz <albert.zedlitz@eezz,biz> 2023.
+#
+"Project-Id-Version: 1.0\n"
+"POT-Creation-Date: 2023-01-15 12:57+W. Europe Standard Time\n"
+"PO-Revision-Date:  2023-01-15 12:57+W. Europe Standard Time\n"
+"Last-Translator: Albert Zedlitz <albert.zedlitz@eezz.biz>\n"
+"Language-Team: english <albert.zedlitz@eezz.biz>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Generated-By: Albert Zedlitz \n"   
+
+# Comma in keylist:         &comma;
+# Curly brackets in msgstr: &lcub;  &rcub;
+# Quotes in msgstr:         &bdquo; &rdquo;
+
+#=== Tranlate words and phrases ===============================================
+#: ZedlitzArt : General tables
+msgid  "table-technik"
+msgstr "Technik"
+
+msgid  "table-gelplatte"
+msgstr "Gelplatte"
+
+msgid  "table-cyanotypie"
+msgstr "Cyanotypie"
+
+msgid  "table-carrier"
+msgstr "Bildträger"
+
+msgid  "table-not-available"
+msgstr "unverkäuflich"
+
+msgid  "table-sold"
+msgstr "verkauft"
+
+msgid  "table-canvas"
+msgstr "Leinwand"
+
+msgid  "table-acryl"
+msgstr "Acryl"
+
+msgid  "table-chalk"
+msgstr "Kreide"
+
+msgid  "table-wood"
+msgstr "Holz"
+
+msgid  "table-paper
+msgstr "Papier"
+
+msgid  "table-print"
+msgstr "Druck"
+
+msgid  "table-resin"
+msgstr "Resin"
+
+msgid  "table-size"
+msgstr "Größe[cm]"
+
+msgid  "table-frame"
+msgstr "Rahmen"
+
+msgid  "table-passepartout"
+msgstr "Passepartout"
+
+msgid  "table-gelplate-print"
+msgstr "Gelplattendruck"
+
+msgid  "table-intro"
+msgstr "Zu diesem Bild:"
+
+msgid  "table-mixedmedia"
+msgstr "Mixed Media"
+
+msgid  "table-wooden-blocks"
+msgstr "Holzkörper"
+
+msgid  "table-wooden-blocks-plural"
+msgstr "Holzkörper"
+
+msgid  "table-galerie"
+msgstr "Galerie"
+
+msgid  "table-downpour"
+msgstr "Schüttung"
+
+msgid  "table-gips"
+msgstr "Gips"
+
+msgid  "table-impressum"
+msgstr "Imressum"
+
+msgid  "table-portfolio"
+msgstr "Portfolio"
+
+#=== MENUE Texte ==============================================================
+#: ZedlitzArt : Menue
+msgid  "menu-painting"
+msgstr "Malerei"
+
+msgid  "menu-mixed-media"
+msgstr "Mixex Media"
+
+msgid  "menu-printing"
+msgstr "Drucke"
+
+msgid  "menu-photo"
+msgstr "Fotografie"
+
+msgid  "menu-about"
+msgstr "Über mich"
+
+msgid  "menu-news"
+msgstr "News"
+
+#=== MENUE Keys ==============================================================
+# menu-keys need no translation
+msgid  "menu-keys"
+msgstr "menu-painting, menu-mixed-media, menu-printing, menu-photo, menu-about, menu-news"
+
+
+#=== Main Page ==============================================================
+#: ZedlitzArt : Main Page
+msgid  "main-header"
+msgstr "Abstrakte Fotografie und Malerei"
+
+msgid  "main-intro"
+msgstr "In Zeiten, in denen Maschinen die Arbeit der Menschen übernehmen, bleibt die Kreativität als einzigartiges Merkmal des menschlichen Geistes"
+
+	
+# -- caption-keys need no translation
+msgid  "caption-keys-painting"
+msgstr "menu-painting"
+
+msgid  "caption-keys-printing"
+msgstr "menu-printing"
+
+msgid  "caption-keys-mixedmedia"
+msgstr "menu-mixed-media"
+
+msgid  "caption-keys-photo"
+msgstr "menu-photo"
+
+#=== Paintings ==============================================================
+#: /malerei : Page Paintings
+msgid  "painting-header"
+msgstr "Galerie Malerei"
+
+msgid  "painting-intro"
+msgstr "In meinen malerischen Werken möchte ich keine realen Dinge abbilden, sondern Gefühle zum Ausdruck bringen. In der Malerei gibt es kein „zu viel“ oder „zu wenig“, sondern es ist die emotionale Reaktion, die das Bild ausmacht. Diese kann nur dann gelingen, wenn das Werk auch die Authentizität des Künstlers widerspiegelt. Manchmal sind reale Dinge in einem Bild erkennbar, aber auch dann sollen sie nicht „abbilden“, sondern innere Eindrücke übersetzen."
+
+#: /malerei/Sprung im Raum : 
+msgid  "painting-jump-header"
+msgstr "Sprung im Raum"
+
+msgid  "painting-jump-11"
+msgstr "raum<br>in ausdehnung<br>spuren halten: verbindung<br>rote leidenschaft zieht kreise<br>sprung"
+
+msgid  "painting-jump-descr"
+msgstr "manchmal bekommt das Leben einen Sprung. Der Raum, der bislang fest und unverbrüchlich erschien, bekommt plötzlich Risse, Sprünge und Dellen. Oft entsteht etwas Helles, Neues und rote Emotionen bekommen einen Platz."
+
+# -- table-keys need no translation
+msgid  "table-keys-jump"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
+#: /malerei/Sturmvoegel     :
+msgid  "painting-storm-header"
+msgstr "Sturmvögel"
+ 
+msgid  "painting-storm-11"
+msgstr "sturm<br>dramatisches gewirbel<br>das holz ächzt<br>lass tanzen im wind<br>vögel"
+
+msgid  "painting-storm-descr"
+msgstr "viele Schichten liegen darunter, verwoben in Strukturen, Linien und Flächen. Lange ist nicht klar, was daraus entstehen wird und plötzlich lösen sich aus dem Sturm der Farben die Vögel und zeigen sich"
+
+# -- table-keys need no translation
+msgid  "table-keys-storm"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
+#: /malerei/FlyAway     : 
+msgid  "painting-flyaway-header"
+msgstr "Fly Away"
+
+msgid  "painting-flyaway-11"
+msgstr "fly<br>hartes gefüge<br>verschleiert die leidenschaft<br>vergnügen schwingt sich empor<br>away"
+
+msgid  "painting-flyaway-descr"
+msgstr "Viele Schichten aus Seidenpapier und Acrylfarben verbergen die harten Linien und bunten Flächen. Die schwarzen Linien bilden einen harten Rahmen, aus dem sich die Kreise herausschälen. Für mich sah es so aus, als würden sie davon fliegen."
+
+msgid  "table-keys-flyaway"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
+#: /malerei/Geschichte :
+msgid  "painting-story-header"
+msgstr "Erzähl mir eine Geschichte"
+
+msgid  "painting-story-11"
+msgstr "reise<br>ferne welt<br>hier und da<br>erzähl mir eine geschichte<br>lang"
+
+msgid  "painting-story-descr"
+msgstr "Diese Bild ist in einem extremen Format, sehr breit und nicht sehr hoch. Dadurch ergibt sich die Schwierigkeit, es von link bis rechts zusammen zu halten. Der Blick startet links und entdeckt dann Stück für Stück den Rest des Bildes. Es ist wie eine lange Geschichte."
+
+# -- table-keys need no translation
+msgid  "table-keys-story"
+msgstr "{table-carrier}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}, , {table-sold}"
+
+#: /malerei/Hain :
+msgid  "painting-hain-header"
+msgstr "Hain"
+
+msgid  "painting-hain-11"
+msgstr "Hain<br>lichtpunkte tanzen<br>vernetzt durch gezweig<br>umfängt uns buntes grün<br>atme"
+
+msgid  "painting-hain-descr"
+msgstr "Shinrin Yoku, so die japanische Bezeichnung für das Waldbaden, bedeutet so viel wie „ein Bad in der Atmosphäre des Waldes nehmen“. Es geht darum, sich intensiv auf die Natur um sich herum einzulassen und mit allen Sinnen auf Tuchfühlung mit dem Wald zu gehen. Dieses Bild ist nach so einer Erfahrung entstanden."
+
+# -- table-keys need no translation
+msgid  "table-keys-hain"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
+#: /malerei/Traeume :
+msgid  "painting-dream-header"
+msgstr "Träume sind Schäume"
+
+msgid  "painting-dream-11"
+msgstr "träume<br>glückliche welt<br>reich und berühmt<br>eines führt zum anderen<br>schäume"
+
+# -- table-keys need no translation
+msgid  "table-keys-dream"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
+msgid  "painting-dream-descr"
+msgstr "Die Farbe rot - in allen Facetten - war die Herausforderung für diese Bild. Ich habe hier mit Acrylfarben und vielen Kreiden gearbeitet und mit langen Armen und viel Energie die Linien in dieses Bild gezogen. Mich erinnerten die weißen &rdquo;Gewebe&ldquo;  an Schaum, darum heißt das Bild &rdquo;Träume sind Schäume&rdquo;."
+
+#: /malerei/Sommer 
+msgid  "painting-summer-header"
+msgstr "Sommer"
+
+msgid  "painting-summer-descr"
+msgstr "Viele Schichten liegen unter der gelben Farbe. Alle Schichten, die man auch unter einem gelben Sommerfeld finden würde: Schwarz für die Steine, Braun für die Erde, Grün für das Gras. Zusammen ergeben sie die Tiefe, die unter der gelben Fläche hervorscheint."
+
+msgid  "painting-summer-11"
+msgstr ""
+
+msgid  "table-keys-summer"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
+#: /malerei/kolibri     :
+msgid  "painting-kolibri-header"
+msgstr "humming bird"
+
+msgid  "painting-kolibri-11"
+msgstr ""
+
+msgid  "painting-kolibri-descr"
+msgstr ""
+
+msgid  "table-keys-kolibri"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
+#===DRUCKE==============================================================
+#: /drucke  : Page Press
+msgid  "print-header"
+msgstr "Galerie Drucke"
+
+msgid  "print-intro"
+msgstr "Das Drucken stellt eine andere Herausforderung an mich, als das Malen. Hier steht die Planung im Vordergrund. Im Gegensatz zur Malerei kann ich es beim Drucken nicht „fließen“ lassen, sondern muss vorher darüber nachdenken, wie die Bildkomposition aussehen soll, welche Farben in welcher Reihenfolge verwendet werden müssen und wie Kontrast und Spannung in den Druck kommt. Beim Drucken bediene ich mich hauptsächlich aus der Natur: Blätter, Gräser, Äste – alles, was ich so auf meinen täglichen Spaziergängen entdecke und das mich inspiriert, sei es die Form oder die Struktur. Viele meiner Drucke sind mit Naturmaterialien gemacht, die schon am Vergehen sind – von Insekten zerfressen, vom Wind abgeknickt, vom Frost ausgebleicht. Mich reizt es, diese mit lebendigen Farben und Kontrasten in ein anderes Licht zu rücken."
+
+#: /prints/after the burn : 
+msgid  "print-burn-header"
+msgstr "After The Burn"
+
+msgid  "print-burn-descr"
+msgstr "Geheimnisvoll, ein bisschen düster, leuchtet der rote Mond hinter den ausgbrannten Zeigen hervor."
+
+msgid  "table-keys-burn"
+msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+
+#: /prints/howl at the moon : 
+msgid  "print-howl-header"
+msgstr "Howl The Moon"
+
+msgid  "print-howl-descr"
+msgstr "Ein Winterwald mit gelbem Mond - da heulen im Geiste die Wölfe."
+
+msgid  "table-keys-howl"
+msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+
+#: /prints/feathersII : 
+msgid  "print-feathers2-header"
+msgstr "Feathers II"
+
+msgid  "print-feathers2-descr"
+msgstr "Diese Federn, teilweise ganz glatt und ordentlich, teilweise windzerzaust, habe ich bei meinen täglichen Spziergängen gesammelt und mit Sonnenlicht gedruckt (Cyanotypie)"
+
+msgid  "table-keys-feathers2"
+msgstr "{table-technik}, {table-cyanotypie}, {table-carrier}, {table-paper}, {table-size}"
+
+#: /prints/wholes in summer II : 
+msgid  "print-summer-hole"
+msgstr "Löcher im Sommer"
+
+msgid  "print-summer-hole2-header"
+msgstr "{print-summer-hole} II"
+
+msgid  "print-summer-hole2-descr"
+msgstr "Meine Serie &bdquo;Löcher im Sommer&rdquo; verbindet schon angefressene, abgeknickte, ausgeleierte Blätter mit starken Farben. So erfahren sie ein letztes Aufleben und können ihre interessante Schönheit noch einmal präsentieren."
+
+msgid  "table-keys-summer-hole2"
+msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+ 
+#: /prints/wholes in summer III : 
+msgid  "print-summer-hole3-header"
+msgstr "{print-summer-hole} III"
+
+msgid  "print-summer-hole3-descr"
+msgstr "{print-summer-hole2-descr}"
+
+msgid  "table-keys-summer-hole3"
+msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+
+#: /prints/wholes in summer IV : 
+msgid  "print-summer-hole4-header"
+msgstr "{print-summer-hole} IV"
+
+msgid  "print-summer-hole4-descr"
+msgstr "{print-summer-hole2-descr}"
+
+msgid  "table-keys-summer-hole4"
+msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+
+
+#: /prints/Zärtlich I : 
+msgid  "print-tender"
+msgstr "Zärtlich"
+
+msgid  "print-tender1-header"
+msgstr "{print-tender} I"
+
+msgid  "print-tender1-descr"
+msgstr "Zarte Strukturen im Sommer, mit kleinen Samenkapseln, die Lichtpunkte streuen. In einem Druck können völlig unauffällige Pflanzen sich zärtlich präsentieren."
+
+msgid  "table-keys-tender1"
+msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+
+
+#: /prints/Zärtlich II : 
+msgid  "print-tender2-header"
+msgstr "{print-tender} II"
+
+msgid  "print-tender2-descr"
+msgstr "{print-tender1-descr}"
+
+msgid  "table-keys-tender2"
+msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+
+#: /prints/Zärtlich III : 
+msgid  "print-tender3-header"
+msgstr "{print-tender} III"
+
+msgid  "print-tender3-descr"
+msgstr "{print-tender1-descr}"
+
+msgid  "table-keys-tender3"
+msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+
+#: /prints/lines in winter I : 
+msgid  "print-winter-lines1-header"
+msgstr "lines in winter I"
+
+msgid  "print-winter-lines1-descr"
+msgstr "Der Winter reduziert. Er reduziert die Fülle der Formen und der Farben auf das Nötigste und legt einen nebligen Schleier über alles. In dieser Serie möchte ich die reduziert Schönheit des Winters zeigen."
+
+msgid  "table-keys-winter-lines1"
+msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+
+#: /drucke/Frozen Passion :
+msgid  "print-frozen-header"
+msgstr "Frozen Passion"
+
+msgid  "print-frozen-descr"
+msgstr "Eine Passionsblume, die sich über den Sommer in langen Ranken um die umliegenden Sträucher gelegt hatte und im Winter erfroren ist – noch sind die Blütenblätter erkennbar, die Ranken stabil, aber schon farblos und bleich in der Kälte."
+
+#: /drucke/Feathers I :
+msgid  "print-feather1-header"
+msgstr "Feathers I"
+
+#: /drucke/Löcher im Sommer:
+msgid  "print-summer-hole"
+msgstr "Löcher im Sommer"
+
+#: /drucke/Löcher im Sommer II :
+msgid  "print-summer-hole2-header"
+msgstr "{print-summer-hole} II"
+
+#: /drucke/Löcher im Sommer III :
+msgid  "print-summer-hole3-header"
+msgstr "{print-summer-hole} III"
+
+#: /drucke/Löcher im Sommer IV :
+msgid  "print-summer-hole3-header"
+msgstr "{print-summer-hole} IV"
+
+#: /drucke/Zärtlich I :
+msgid  "print-tender1-header"
+msgstr "Zärtlich I"
+
+#: /drucke/Zärtlich II :
+msgid  "print-tender1-header"
+msgstr "Zärtlich II"
+
+#===MIXEDMEDIA==============================================================
+#: /mixed media : Page Mixed Media
+msgid  "mixed-media-header"
+msgstr "Galerie Mixed Media"
+
+msgid  "mixed-media-intro"
+msgstr "In dem Bereich MixedMedia steht das spielerische Zusammenfügen von Papieren, Schüttungen, Linien und Materialien im Vordergrund. Alles, was in meinem Atelier so rumsteht, kommt zum Einsatz. Da wird geklebt und gekritzelt, geschüttet und wieder frei gekratzt. Das Eintauchen in den „kreativen Flow“ ist eine Arbeit mit viel Leichtigkeit."
+
+#: /mixed media/ Winter Findling I
+msgid  "mixed-findling1-header"
+msgstr "Winter Findling I"
+
+msgid  "table-keys-findling1"
+msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, 3 {table-wooden-blocks-plural}, {table-size}"
+
+msgid  "mixed-findling2-header"
+msgstr "Winter Findling II"
+
+msgid  "table-keys-findling2"
+msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, 4 {table-wooden-blocks-plural}, {table-size}"
+
+#: /mixed media/quintessenz :
+msgid  "mixed-quintessenz-header"
+msgstr "Quintessenz"
+
+msgid  "mixed-quintessenz-11"
+msgstr "pollenflug<br>frühling sprüht<br>neues leben lacht<br>manchen läuft die nase<br>quintessenz"
+
+msgid  "mixed-quintessenz-descr"
+msgstr "Dieses Bild entstand auf einer Spanplatte, auf die ich erst einmal verschiedene Schüttungen aufgebracht hatte. Dann saß ich lange davor, bis sich die rote Form zeigte. Mit Seidenpapier, Kreiden und Acrylfarbe arbeitete ich dieses Bild aus, das mich an Frühling, Blüten, und Elemente, die durch die Luft schweben erinnert."
+
+msgid  "table-keys-quintessenz"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}&comma; etc, {table-carrier}, {table-wood}, {table-size}"
+
+#: /mixed media/stakkato :
+msgid  "mixed-stakkato-header"
+msgstr "Stakkato"
+
+msgid  "mixed-stakkato-11"
+msgstr "stakkato<br>grüner rhythmus<br>durchsetzt das licht<br>eine reihe ereignissebringt<br>verbindung"
+
+msgid  "table-keys-stakkato"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}&comma; etc, {table-carrier}, {table-wood}, {table-size}"
+
+msgid  "mixed-stakkato-descr"
+msgstr "Dieses Bild entstand auf einer Spanplatte, auf die ich erst einmal verschiedene Schüttungen aufgebracht hatte. Dann saß ich lange davor, bis sich die rote Form zeigte. Mit Seidenpapier, Kreiden und Acrylfarbe arbeitete ich dieses Bild aus, das mich an Frühling, Blüten, und Elemente, die durch die Luft schweben erinnert."
+
+#: /mixed media/Krähenbaum :
+msgid  "mixed-crow-tree-header"
+msgstr "Krähenbaum"
+
+msgid  "mixed-crow-tree-descr"
+msgstr "Dieses Bild entstand auf einer Spanplatte, auf die ich erst einmal verschiedene Schüttungen aufgebracht hatte. Dann saß ich lange davor, bis sich die rote Form zeigte. Mit Seidenpapier, Kreiden und Acrylfarbe arbeitete ich dieses Bild aus, das mich an Frühling, Blüten, und Elemente, die durch die Luft schweben erinnert."
+
+msgid  "table-keys-crow-tree"
+msgstr "{table-technik}, {table-downpour}&comma; {table-paper}&comma; etc, {table-carrier}, {table-paper}, {table-size}"
+
+#: /mixed media/Winterbaum :
+msgid  "mixed-winter-tree-header"
+msgstr "Winterbaum"
+
+msgid  "mixed-winter-tree-descr"
+msgstr "Dieses Bild entstand auf einer Spanplatte, auf die ich erst einmal verschiedene Schüttungen aufgebracht hatte. Dann saß ich lange davor, bis sich die rote Form zeigte. Mit Seidenpapier, Kreiden und Acrylfarbe arbeitete ich dieses Bild aus, das mich an Frühling, Blüten, und Elemente, die durch die Luft schweben erinnert."
+
+msgid  "table-keys-winter-tree"
+msgstr " , {table-sold}, {table-carrier}, {table-gips} &amp; {table-paper}, {table-size}"
+
+msgid  "mixed-winter-tree2-header"
+msgstr "{mixed-winter-tree-header} II"
+
+msgid  "table-keys-winter2"
+msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, 2 {table-wooden-blocks-plural}, {table-size}"
+
+msgid  "mixed-winter-tree2-descr"
+msgstr ""
+
+#: /mixed media/Crazy :
+msgid  "mixed-crazy-header"
+msgstr "Crazy"
+
+msgid  "mixed-crazy-descr"
+msgstr ""
+
+msgid  "table-keys-crazy"
+msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, {table-wooden-blocks}, {table-size}"
+
+#: /mixed media/Chic :
+msgid  "mixed-chic-header"
+msgstr "Crazy"
+
+msgid  "mixed-chic-descr"
+msgstr ""
+
+msgid  "table-keys-chic"
+msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, {table-wooden-blocks}, {table-size}"
+
+#: /mixed media/Hey da :
+msgid  "mixed-heyda-header"
+msgstr "Hey da"
+
+msgid  "mixed-heyda-descr"
+msgstr "Dieses Bild entstand auf einer Spanplatte, auf die ich erst einmal verschiedene Schüttungen aufgebracht hatte. Dann saß ich lange davor, bis sich die rote Form zeigte. Mit Seidenpapier, Kreiden und Acrylfarbe arbeitete ich dieses Bild aus, das mich an Frühling, Blüten, und Elemente, die durch die Luft schweben erinnert."
+
+msgid  "table-keys-heyda"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-paper}, {table-size}"
+
+#: /mixed media/Hey du :
+msgid  "mixed-heydu-header"
+msgstr "Hey du"
+
+msgid  "mixed-heydu-descr"
+msgstr "Dieses Bild entstand auf einer Spanplatte, auf die ich erst einmal verschiedene Schüttungen aufgebracht hatte. Dann saß ich lange davor, bis sich die rote Form zeigte. Mit Seidenpapier, Kreiden und Acrylfarbe arbeitete ich dieses Bild aus, das mich an Frühling, Blüten, und Elemente, die durch die Luft schweben erinnert."
+
+msgid  "table-keys-heydu"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-paper}, {table-size}"
+
+#: /mixed media/Nest :
+msgid  "mixed-nest-header"
+msgstr "Nest"
+
+msgid  "mixed-nest-descr"
+msgstr ""
+
+msgid  "table-keys-nest"
+msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, {table-paper}, {table-size}"
+
+#: /mixed media/Summer Feeling :
+msgid  "mixed-summer-feeling-header"
+msgstr "Summer Feeling"
+
+msgid  "mixed-summer-feeling-desst-descr"
+msgstr ""
+
+msgid  "table-keys-summer-feeling"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}&comma; etc, {table-carrier}, {table-canvas}, {table-size}"
+
+#: /mixed media/Löcher im Sommer:
+msgid  "mixed-summer-hole"
+msgstr "Löcher im Sommer"
+
+msgid  "mixed-summer-hole1-header"
+msgstr "{mixed-summer-hole} I"
+
+msgid  "mixed-summer-hole1-descr"
+msgstr "<p>Meine Serie &bdquo;Löcher im Sommer&rdquo; verbindet schon angefressene, abgeknickte, ausgeleierte Blätter mit starken Farben. So erfahren sie ein letztes Aufleben und können ihre interessante Schönheit noch einmal präsentieren.</p><p>Der Druck wurde auf einen Holzblock aufgezogen, mit Kreiden und Materialien ergänzt und mit Resin (Epoxydharz) überzogen. Das Resin verleiht dem Werk eine zusätzliche Tiefe und Frische</p>"
+
+msgid  "table-keys-summer-hole1"
+msgstr "{table-technik}, {table-print} + {table-resin}, {table-carrier}, {table-wooden-blocks}, {table-size}"
+
+msgid  "mixed-summer-hole6-header"
+msgstr "{mixed-summer-hole} VI"
+
+msgid  "mixed-summer-hole6-descr"
+msgstr "{mixed-summer-hole1-descr}"
+
+msgid  "table-keys-summer-hole6"
+msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, {table-wooden-blocks}, {table-size}"
+
+msgid  "mixed-summer-hole7-header"
+msgstr "{mixed-summer-hole} VII"
+
+msgid  "mixed-summer-hole7-descr"
+msgstr "{mixed-summer-hole1-descr}"
+
+msgid  "table-keys-summer-hole7"
+msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, {table-wooden-blocks}, {table-size}"
+
+#: /mixed/summerfeeling : 
+msgid  "mixed-summerfeeling-header"
+msgstr "summer feeling!"
+
+msgid  "mixed-summerfeeling-descr"
+msgstr "Dieses Bild entstand auf einer Spanplatte, auf die ich erst einmal verschiedene Schüttungen aufgebracht hatte. Dann saß ich lange davor, bis sich die rote Form zeigte. Mit Seidenpapier, Kreiden und Acrylfarbe arbeitete ich dieses Bild aus, das mich an Frühling, Blüten, und Elemente, die durch die Luft schweben erinnert."
+
+
+#=== Photographie ==============================================================
+#: /fotografie  : Page Foto
+msgid  "foto-header"
+msgstr "Galerie Fotografie"
+
+msgid  "foto-intro"
+msgstr "Fotografieren ist für mich ein tägliches Neuentdecken meiner Umgebung. Für die meisten Bilder fahren ich nicht mal weg. Ich stelle auch nicht gezielt die Aufnahmen sondern finde das Motiv auf dem Weg. Daran habe ich selber sehr viel Freude, denn meine Umgebung erscheint mir jeden Tag anders und spannend. Meine Entdeckerfreude wird angestachelt und es macht mich glücklich, wenn ich einen neuen Blickwinkel gefunden habe."
+
+msgid  "foto-price-tag"
+msgstr "Preise für die Fotografien finden sie unten in der Tabelle."
+
+msgid  "table-keys-foto-prices"
+msgstr "DIN A4 mit Passepartout,,DIN A3 mit Passepartout,,DIN A4 auf Holzkörper und mit Resin überzogen,,DIN A3 auf Holzkörper und mit Resin überzogen,,andere Formate auf Anfrage"
+
+#=== About Me ==================================================================
+#: /about  : Page Über Mich
+msgid  "about-header"
+msgstr "Über Mich"
+
+msgid  "about-intro"
+msgstr "<p>Ich beschäftige mich schon seit vielen Jahren mit der Malerei. In den letzten Jahren habe ich das intensiviert und bin von konkreten Motiven zu abstrakter Malerei übergegangen. Dabei habe ich viele Techniken dazu gelernt und in meine Kunst integriert. Meine Ausbildung habe ich selber gestaltet und mich an mehreren freien Kunstakademien weiter gebildet. Die Kurse wähle ich so aus, dass ich immer da, wo ich meine Grenzen spüre, eine Ausbildungseinheit buche. Es ist sehr beglückend zu sehen, wie dadurch das Können erweitert werden kann. Ich habe von Dozenten wie Ines Hildur, Stefanie Etter, Andrea Rozorea, Conny Niehoff, Georg Kleber und Monika Kössl gelernt.</p>
+<p>Die Kunst gibt mir Freiheit. Die Freiheit, selbst gestalten zu können. Die Freiheit, einen Ausdruck zu finden. Und die Freude daran, die Ergebnisse sichbar vor sich zu sehen.</p>
+<p>Das kreative Arbeiten fordert mich heraus und es erlaubt mir, ständig neue Räume zu erforschen, neue Facetten an mir selber zu entdecken, mit meinen Ecken und Kanten zu leben zu lernen, mit den Materialien zu spielen und sie gezielt einzusetzen.</p>
+<p>Der kreative Prozess beglückt und schmerzt, gibt mir den &bdquo;Flow&&rdquo; und die Verzweiflung des Feststeckens, schön abwechselnd, und kein Bild entsteht ohne beide Seiten durchlebt zu haben.</p>"
+
+
+msgid  "about-impressum-hdr"
+msgstr "Impressum: Verantwortlich für den Inhalt"
+
+msgid  "about-impressum-txt"
+msgstr "Bettina Zedlitz<br>Adresse: Mühlstr.44, 69168 Wiesloch<br>Telefon: +49<br>(0)15157118431<br>E-Mail: info@zedlitzart.de"
+
+msgid  "about-copyright-hdr"
+msgstr "Copyright"
+
+msgid  "about-copyright-txt"
+msgstr "Sämtliche Texte, Bilder und andere in der Webseite veröffentlichten Informationen unterliegen – sofern nicht anders gekennzeichnet – dem Copyright von Bettina Zedlitz<br>
+Jeder Vervielfältigung, Verbreitung, Speicherung und Wieder- bzw. Weitergabe der Inhalte ist, ohne schriftliche Genehmigung von Bettina Zedlitz untersagt."
+
+msgid  "about-disclaimer-hdr"
+msgstr "Disclaimer"
+
+msgid  "about-disclaimer-txt"
+msgstr "Ich betone ausdrücklich, dass ich keinerlei Einfluss auf die Gestaltung und Inhalte der verlinkten Webseiten habe. Daher distanziere ich mich ausdrücklich von allen Inhalten aller gelinkten Webseiten auf meiner gesamten Webseite inkl. aller Unterseiten und deren Unterlinks oder anderen Weiterleitungsmechanismen. Diese Erklärung gilt für alle, auf meiner Homepage ausgebrachten Links und für alle Inhalte der Seiten, zu denen Links, Banner oder sonstige Verknüpfungen führen. "
+
+
+
