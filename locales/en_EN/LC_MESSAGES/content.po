@@ -55,7 +55,7 @@ msgstr "wood"
 msgid  "table-wooden-blocks-plural"
 msgstr "wooden blocks"
 
-msgid  "table-paper
+msgid  "table-paper"
 msgstr "paper"
 
 msgid  "table-print"
@@ -423,7 +423,7 @@ msgid  "mixed-media-header"
 msgstr "Gallery Mixed Media"
 
 msgid  "mixed-media-intro"
-msgstr "In dem Bereich MixedMedia steht das spielerische Zusammenfügen von Papieren, Schüttungen, Linien und Materialien im Vordergrund. Alles, was in meinem Atelier so rumsteht, kommt zum Einsatz. Da wird geklebt und gekritzelt, geschüttet und wieder frei gekratzt. Das Eintauchen in den "kreativen Flow" ist eine Arbeit mit viel Leichtigkeit."
+msgstr "+In dem Bereich MixedMedia steht das spielerische Zusammenfügen von Papieren, Schüttungen, Linien und Materialien im Vordergrund. Alles, was in meinem Atelier so rumsteht, kommt zum Einsatz. Da wird geklebt und gekritzelt, geschüttet und wieder frei gekratzt. Das Eintauchen in den "kreativen Flow" ist eine Arbeit mit viel Leichtigkeit."
 
 #: /mixed media/ Winter Findling I
 msgid  "mixed-findling1-header"
@@ -475,7 +475,7 @@ msgid  "table-keys-crow-tree"
 msgstr "{table-technik}, {table-downpour}&comma; {table-paper}&comma; etc, {table-carrier}, {table-paper}, {table-size}"
 
 #: /mixed/winterbaum : 
-msgid  "mixed-winter-tree-header"
+msgid  "mixed-winter-tree"
 msgstr "winter tree"
 
 msgid  "mixed-winter-tree-descr"
@@ -486,7 +486,7 @@ msgstr " , {table-sold}, {table-carrier}, {table-gips} &amp; {table-paper}, {tab
 
 
 msgid  "mixed-winter-tree2-header"
-msgstr "{mixed-winter-tree-header} II"
+msgstr "{mixed-winter-tree} II"
 
 msgid  "table-keys-winter2"
 msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, 2 {table-wooden-blocks-plural}, {table-size}"

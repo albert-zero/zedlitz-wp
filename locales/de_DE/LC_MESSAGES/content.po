@@ -49,7 +49,7 @@ msgstr "Kreide"
 msgid  "table-wood"
 msgstr "Holz"
 
-msgid  "table-paper
+msgid  "table-paper"
 msgstr "Papier"
 
 msgid  "table-print"
@@ -471,7 +471,7 @@ msgid  "table-keys-crow-tree"
 msgstr "{table-technik}, {table-downpour}&comma; {table-paper}&comma; etc, {table-carrier}, {table-paper}, {table-size}"
 
 #: /mixed media/Winterbaum :
-msgid  "mixed-winter-tree-header"
+msgid  "mixed-winter-tree"
 msgstr "Winterbaum"
 
 msgid  "mixed-winter-tree-descr"
@@ -481,7 +481,7 @@ msgid  "table-keys-winter-tree"
 msgstr " , {table-sold}, {table-carrier}, {table-gips} &amp; {table-paper}, {table-size}"
 
 msgid  "mixed-winter-tree2-header"
-msgstr "{mixed-winter-tree-header} II"
+msgstr "{mixed-winter-tree} II"
 
 msgid  "table-keys-winter2"
 msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, 2 {table-wooden-blocks-plural}, {table-size}"
