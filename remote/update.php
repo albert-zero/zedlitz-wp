@@ -7,7 +7,7 @@ if (isset($_POST['action'])) {
 
     case 'info':
       $obj = new stdClass();
-	  $obj->name         = 'ZedlitzArt';
+      $obj->name         = 'ZedlitzArt';
       $obj->slug         = 'zedlitz-wp.php';
       $obj->plugin_name  = 'zedlitz-wp.php';
       $obj->new_version  = '1.1';
