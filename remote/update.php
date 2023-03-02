@@ -2,7 +2,7 @@
 if (isset($_POST['action'])) {
   switch ($_POST['action']) {
     case 'version':
-      echo '1.1';
+      echo '1.2';
       break;
 
     case 'info':
@@ -16,9 +16,8 @@ if (isset($_POST['action'])) {
       $obj->downloaded   = 1;
       $obj->last_updated = '2023-01-03';
       $obj->sections = array(
-        'description'       => 'The new version of the zedlitz-wp',
-        'another_section'   => 'Some new features',
-        'changelog'         => 'Some new translations'
+        'description'       => 'Add new content to ZedlitzArt',
+        'changelog'         => 'New feature: Auto-Update'
       );
 
       $obj->download_link = 'http://eezz.biz/update/update.php';
