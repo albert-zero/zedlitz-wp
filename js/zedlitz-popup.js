@@ -45,7 +45,10 @@ function doTranslateNested(aElement, aValue, aTag) {
 	const aArray = aValue.split(",");
 	const aCells = aElement.getElementsByTagName(aTag);
 	for (var i = 0; i < aCells.length && i < aArray.length; i++) {
-		aCells[i].innerHTML = aArray[i].trim();
+		var xVal = aArray[i].trim();
+		if (xVal.length > 0) {
+			aCells[i].innerHTML = xVal;
+		}
 	}
 }
 
@@ -155,11 +158,10 @@ async function doTranslate(bLazy = true) {
  *  HTML elements with specified class zedlitz-img-detail
  */			
 async function zedlitz_setup() {	
-	var aElems = document.getElementsByClassName("zedlitz-img-detail");
+ 	var aElems = document.getElementsByClassName("zedlitz-img-detail");
  	for (var i = 0; i < aElems.length; i++) {
  		aElems[i].addEventListener("click", zedlitz_img_detail);
- 	}
- 	
+ 	} 	
  	// Translate the page content
 	doTranslate();
 }

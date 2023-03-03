@@ -40,6 +40,7 @@ class zedlitz_update_class {
         // If a newer version is available, add the update
         if (version_compare($this->current_version, $remote_version, '<')) {
             $obj                = new stdClass();
+            $obj->name          = 'ZedlitzArt';
             $obj->slug          = $this->slug;
             $obj->new_version   = $remote_version;
             $obj->url           = $this->update_path;

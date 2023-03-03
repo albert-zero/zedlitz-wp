@@ -206,7 +206,7 @@ msgstr "Diese Bild ist in einem extremen Format, sehr breit und nicht sehr hoch.
 
 # -- table-keys need no translation
 msgid  "table-keys-story"
-msgstr "{table-carrier}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}, , {table-sold}"
+msgstr "{table-carrier}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size},,, {table-sold}"
 
 #: /malerei/Hain :
 msgid  "painting-hain-header"

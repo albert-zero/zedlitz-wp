@@ -2,7 +2,7 @@
 if (isset($_POST['action'])) {
   switch ($_POST['action']) {
     case 'version':
-      echo '1.2';
+      echo '1.2.1';
       break;
 
     case 'info':
