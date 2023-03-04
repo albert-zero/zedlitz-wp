@@ -389,30 +389,6 @@ msgstr "Eine Passionsblume, die sich über den Sommer in langen Ranken um die um
 msgid  "print-feather1-header"
 msgstr "Feathers I"
 
-#: /drucke/Löcher im Sommer:
-msgid  "print-summer-hole"
-msgstr "Löcher im Sommer"
-
-#: /drucke/Löcher im Sommer II :
-msgid  "print-summer-hole2-header"
-msgstr "{print-summer-hole} II"
-
-#: /drucke/Löcher im Sommer III :
-msgid  "print-summer-hole3-header"
-msgstr "{print-summer-hole} III"
-
-#: /drucke/Löcher im Sommer IV :
-msgid  "print-summer-hole3-header"
-msgstr "{print-summer-hole} IV"
-
-#: /drucke/Zärtlich I :
-msgid  "print-tender1-header"
-msgstr "Zärtlich I"
-
-#: /drucke/Zärtlich II :
-msgid  "print-tender1-header"
-msgstr "Zärtlich II"
-
 #===MIXEDMEDIA==============================================================
 #: /mixed media : Page Mixed Media
 msgid  "mixed-media-header"
