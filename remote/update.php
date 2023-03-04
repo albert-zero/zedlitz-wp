@@ -2,7 +2,7 @@
 if (isset($_POST['action'])) {
   switch ($_POST['action']) {
     case 'version':
-      echo '1.2.1';
+      echo '1.2.2';
       break;
 
     case 'info':
@@ -10,7 +10,7 @@ if (isset($_POST['action'])) {
       $obj->name         = 'ZedlitzArt';
       $obj->slug         = 'zedlitz-wp.php';
       $obj->plugin_name  = 'zedlitz-wp.php';
-      $obj->new_version  = '1.1';
+      $obj->new_version  = '1.2.2';
       $obj->requires     = '6.0';
       $obj->tested       = '6.2';
       $obj->downloaded   = 1;

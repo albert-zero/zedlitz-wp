@@ -3,6 +3,8 @@
 # Copyright (C) 2022 ZedlitzArt
 # Albert Zedlitz <albert.zedlitz@eezz,biz> 2023.
 #
+msgid  "Version"
+msgstr "1.2.3"
 "Project-Id-Version: 1.0\n"
 "POT-Creation-Date: 2023-01-15 12:57+W. Europe Standard Time\n"
 "PO-Revision-Date:  2023-01-15 12:57+W. Europe Standard Time\n"
@@ -333,6 +335,16 @@ msgstr "{print-summer-hole2-descr}"
 msgid  "table-keys-summer-hole4"
 msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
 
+#: /prints/wholes in summer V : 
+msgid  "print-summer-hole5-header"
+msgstr "{print-summer-hole} V"
+
+msgid  "print-summer-hole5-descr"
+msgstr "{print-summer-hole2-descr}"
+
+msgid  "table-keys-summer-hole5"
+msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+
 
 #: /prints/Zärtlich I : 
 msgid  "print-tender"
@@ -370,7 +382,7 @@ msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper},
 
 #: /prints/lines in winter I : 
 msgid  "print-winter-lines1-header"
-msgstr "lines in winter I"
+msgstr "Linien im Winter I"
 
 msgid  "print-winter-lines1-descr"
 msgstr "Der Winter reduziert. Er reduziert die Fülle der Formen und der Farben auf das Nötigste und legt einen nebligen Schleier über alles. In dieser Serie möchte ich die reduziert Schönheit des Winters zeigen."

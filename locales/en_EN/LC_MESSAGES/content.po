@@ -3,6 +3,8 @@
 # Copyright (C) 2022 ZedlitzArt
 # Albert Zedlitz <albert.zedlitz@eezz,biz> 2023.
 #
+msgid  "Version"
+msgstr "1.2.3"
 "Project-Id-Version: 1.0\n"
 "POT-Creation-Date: 2023-01-15 12:57+W. Europe Standard Time\n"
 "PO-Revision-Date:  2023-01-15 12:57+W. Europe Standard Time\n"
@@ -336,6 +338,16 @@ msgid  "print-summer-hole4-descr"
 msgstr "{print-summer-hole2-descr}"
 
 msgid  "table-keys-summer-hole4"
+msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+
+#: /prints/wholes in summer V : 
+msgid  "print-summer-hole5-header"
+msgstr "{print-summer-hole} V"
+
+msgid  "print-summer-hole5-descr"
+msgstr "{print-summer-hole2-descr}"
+
+msgid  "table-keys-summer-hole5"
 msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
 
 #: /prints/Zärtlich I : 
