@@ -6,14 +6,15 @@ Created on 01.02.2023
 import os.path
 import re
 import json
- 
+import argparse
+
 # import pprint
 
 
 # Return the *.po input  file name if a language is given
 # Return the json output file name if language is empty
 def getFileName(aLanguage: str = "") -> str: 
-    xRoot = os.path.expanduser("~") + r"/Projects/zedlitz-wp/locales"
+    xRoot = os.path.expanduser("~") + r"/Projects/plugin/zedlitz-wp/locales"
     xFile = "" 
     if len(aLanguage) > 2:
         xFile = os.path.join(xRoot, aLanguage, "LC_MESSAGES", "content.po")
@@ -29,12 +30,19 @@ def doSplitFile(aFile: str) -> dict:
         xDict    = { xKey.lower() : xVal.encode('ascii', 'xmlcharrefreplace').decode('utf-8') for xKey, xVal in xResArr }
     return xDict
 
-
+# Main entry
 if __name__ == "__main__":
-    xDict   = dict()
+    parser    = argparse.ArgumentParser(
+        prog        = 'cmpjson.py',
+        description = 'Generate json translation file from portable objects')
+    parser.add_argument('directory')
+    arguments = parser.parse_args()
+
+    xDict     = dict()
+
     # Process the input
     for xLoc in ["de_DE", "en_EN"]:
-        xFile   = getFileName(xLoc)
+        xFile       = getFileName(xLoc)
         xDict[xLoc] = doSplitFile(xFile)
     
     # Dump the result
@@ -47,8 +55,8 @@ if __name__ == "__main__":
         
     print(f"created json: {xFile}")    
 
-    xDe = xDict["de_DE"]
-    xEn = xDict["en_EN"]
+    xDe   = xDict["de_DE"]
+    xEn   = xDict["en_EN"]
     
     xDiff = [ x for x in xDe if x not in xEn ]
     print(f"Keys in D and not in E \n{xDiff}")

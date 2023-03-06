@@ -4,7 +4,7 @@
 # Albert Zedlitz <albert.zedlitz@eezz,biz> 2023.
 #
 msgid  "Version"
-msgstr "1.2.3"
+msgstr "1.2.4"
 "Project-Id-Version: 1.0\n"
 "POT-Creation-Date: 2023-01-15 12:57+W. Europe Standard Time\n"
 "PO-Revision-Date:  2023-01-15 12:57+W. Europe Standard Time\n"
@@ -73,6 +73,9 @@ msgstr "size"
 #Rahmen
 msgid  "table-frame"
 msgstr "frame"
+
+msgid  "table-framed"
+msgstr "framed"
 
 msgid  "table-passepartout"
 msgstr "Passepartout"
@@ -399,6 +402,9 @@ msgstr "Frozen Passion"
 
 msgid  "print-frozen-descr"
 msgstr "Eine Passionsblume, die sich über den Sommer in langen Ranken um die umliegenden Sträucher gelegt hatte und im Winter erfroren ist – noch sind die Blütenblätter erkennbar, die Ranken stabil, aber schon farblos und bleich in der Kälte."
+
+msgid  "table-keys-frozen"
+msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-framed}"
 
 #: /drucke/Feathers I :
 msgid  "print-feather1-header"

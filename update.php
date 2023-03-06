@@ -1,10 +1,13 @@
 <?php
 /*
  * Author:      Albert Zedlitz
+ * Version:     1.2.4
  * License:     free
- * Auto-Update implementation:
- * zedlitz_update_class is created in the wp plugin  
-*/
+ *
+ * Auto-Update implementation
+ */
+
+// An istance of zedlitz_update_class is created in the zedlitz-wp plugin 
 class zedlitz_update_class {
     public $current_version;
     public $update_path;
