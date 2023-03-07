@@ -5,7 +5,7 @@
 #
 msgid  "Version"
 msgstr "1.2.4"
-"Project-Id-Version: 1.0\n"
+"Project-Id-Version: 1.2.4\n"
 "POT-Creation-Date: 2023-01-15 12:57+W. Europe Standard Time\n"
 "PO-Revision-Date:  2023-01-15 12:57+W. Europe Standard Time\n"
 "Last-Translator: Albert Zedlitz <albert.zedlitz@eezz.biz>\n"
@@ -500,7 +500,7 @@ msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, {table-wooden-bloc
 
 #: /mixed media/Chic :
 msgid  "mixed-chic-header"
-msgstr "Crazy"
+msgstr "Chic"
 
 msgid  "mixed-chic-descr"
 msgstr ""

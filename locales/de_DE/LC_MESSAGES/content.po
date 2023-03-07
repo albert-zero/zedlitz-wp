@@ -495,7 +495,7 @@ msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, {table-wooden-bloc
 
 #: /mixed media/Chic :
 msgid  "mixed-chic-header"
-msgstr "Crazy"
+msgstr "Chic"
 
 msgid  "mixed-chic-descr"
 msgstr ""
