@@ -600,6 +600,15 @@ msgstr "Fotografieren ist für mich ein tägliches Neuentdecken meiner Umgebung.
 msgid  "foto-price-tag"
 msgstr "Please find all prices in the table below."
 
+msgid  "foto-price-tag"
+msgstr "Preise für die Fotografien"
+
+msgid  "foto-price-tag-ref"
+msgstr "{foto-price-tag} finden sie unten in der Tabelle."
+
+msgid  "foto-product-descr"
+msgstr "Alle Fotografien werden auf feinem Hahnemühle Papier mit einer sehr leichten Struktur gedruckt. Dadurch kommen die Farben gut zur Geltung und dem Foto wird eine Tiefenwirkung verliehen, das durch die matte Oberfläche noch verstärkt wird. (Grammatur 308g/m2, Glanzgrad matt)"
+
 msgid  "table-keys-foto-prices"
 msgstr "DIN A4 mit Passepartout,,DIN A3 mit Passepartout,,DIN A4 auf Holzkörper und mit Resin überzogen,,DIN A3 auf Holzkörper und mit Resin überzogen,,andere Formate auf Anfrage"
 

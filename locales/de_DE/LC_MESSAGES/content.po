@@ -5,7 +5,7 @@
 #
 msgid  "Version"
 msgstr "1.2.4"
-"Project-Id-Version: 1.0\n"
+"Project-Id-Version: 1.2.4\n"
 "POT-Creation-Date: 2023-01-15 12:57+W. Europe Standard Time\n"
 "PO-Revision-Date:  2023-01-15 12:57+W. Europe Standard Time\n"
 "Last-Translator: Albert Zedlitz <albert.zedlitz@eezz.biz>\n"
@@ -591,10 +591,16 @@ msgid  "foto-intro"
 msgstr "Fotografieren ist für mich ein tägliches Neuentdecken meiner Umgebung. Für die meisten Bilder fahren ich nicht mal weg. Ich stelle auch nicht gezielt die Aufnahmen sondern finde das Motiv auf dem Weg. Daran habe ich selber sehr viel Freude, denn meine Umgebung erscheint mir jeden Tag anders und spannend. Meine Entdeckerfreude wird angestachelt und es macht mich glücklich, wenn ich einen neuen Blickwinkel gefunden habe."
 
 msgid  "foto-price-tag"
-msgstr "Preise für die Fotografien finden sie unten in der Tabelle."
+msgstr "Preise für die Fotografien"
+
+msgid  "foto-price-tag-ref"
+msgstr "{foto-price-tag} finden sie unten in der Tabelle."
 
 msgid  "table-keys-foto-prices"
 msgstr "DIN A4 mit Passepartout,,DIN A3 mit Passepartout,,DIN A4 auf Holzkörper und mit Resin überzogen,,DIN A3 auf Holzkörper und mit Resin überzogen,,andere Formate auf Anfrage"
+
+msgid  "foto-product-descr"
+msgstr "Alle Fotografien werden auf feinem Hahnemühle Papier mit einer sehr leichten Struktur gedruckt. Dadurch kommen die Farben gut zur Geltung und dem Foto wird eine Tiefenwirkung verliehen, das durch die matte Oberfläche noch verstärkt wird. (Grammatur 308g/m2, Glanzgrad matt)"
 
 #=== About Me ==================================================================
 #: /about  : Page Über Mich
