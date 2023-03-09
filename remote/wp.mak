@@ -23,6 +23,10 @@ outp:
 # Generate json file
 json: $(wp_path)/locales/content.json
 
+touch:
+	touch $(wp_path)/locales/de_DE/LC_MESSAGES/content.po
+	touch $(wp_path)/locales/en_EN/LC_MESSAGES/content.po
+
 $(wp_path)/locales/content.json: \
 	$(wp_path)/locales/de_DE/LC_MESSAGES/content.po \
 	$(wp_path)/locales/en_EN/LC_MESSAGES/content.po
@@ -32,6 +36,7 @@ $(wp_path)/locales/content.json: \
 version:
 	sed -i 's/$(version_old)/$(version_new)/' $(wp_path)/remote/update.php
 	sed -i 's/$(version_old)/$(version_new)/' $(wp_path)/zedlitz-wp.php
+	sed -i 's/$(version_old)/$(version_new)/' $(wp_path)/update.php
 	sed -i 's/$(version_old)/$(version_new)/' $(wp_path)/locales/de_DE/LC_MESSAGES/content.po
 	sed -i 's/$(version_old)/$(version_new)/' $(wp_path)/locales/en_EN/LC_MESSAGES/content.po
 

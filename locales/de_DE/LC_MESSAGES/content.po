@@ -4,8 +4,8 @@
 # Albert Zedlitz <albert.zedlitz@eezz,biz> 2023.
 #
 msgid  "Version"
-msgstr "1.2.4"
-"Project-Id-Version: 1.2.4\n"
+msgstr "1.2.5"
+"Project-Id-Version: 1.2.5\n"
 "POT-Creation-Date: 2023-01-15 12:57+W. Europe Standard Time\n"
 "PO-Revision-Date:  2023-01-15 12:57+W. Europe Standard Time\n"
 "Last-Translator: Albert Zedlitz <albert.zedlitz@eezz.biz>\n"
@@ -413,7 +413,7 @@ msgid  "mixed-media-header"
 msgstr "Galerie Mixed Media"
 
 msgid  "mixed-media-intro"
-msgstr "In dem Bereich MixedMedia steht das spielerische Zusammenfügen von Papieren, Schüttungen, Linien und Materialien im Vordergrund. Alles, was in meinem Atelier so rumsteht, kommt zum Einsatz. Da wird geklebt und gekritzelt, geschüttet und wieder frei gekratzt. Das Eintauchen in den „kreativen Flow“ ist eine Arbeit mit viel Leichtigkeit."
+msgstr "In dem Bereich MixedMedia steht das spielerische Zusammenfügen von Papieren, Schüttungen, Linien und Materialien im Vordergrund. Alles, was in meinem Atelier so rumsteht, kommt zum Einsatz. Da wird geklebt und gekritzelt, geschüttet und wieder frei gekratzt. Das Eintauchen in den &bdquo;kreativen Flow&rdquo; ist eine Arbeit mit viel Leichtigkeit."
 
 #: /mixed media/ Winter Findling I
 msgid  "mixed-findling1-header"
@@ -607,8 +607,9 @@ msgstr "Alle Fotografien werden auf feinem Hahnemühle Papier mit einer sehr lei
 msgid  "about-header"
 msgstr "Über Mich"
 
-msgid  "about-intro"
-msgstr "<p>Ich beschäftige mich schon seit vielen Jahren mit der Malerei. In den letzten Jahren habe ich das intensiviert und bin von konkreten Motiven zu abstrakter Malerei übergegangen. Dabei habe ich viele Techniken dazu gelernt und in meine Kunst integriert. Meine Ausbildung habe ich selber gestaltet und mich an mehreren freien Kunstakademien weiter gebildet. Die Kurse wähle ich so aus, dass ich immer da, wo ich meine Grenzen spüre, eine Ausbildungseinheit buche. Es ist sehr beglückend zu sehen, wie dadurch das Können erweitert werden kann. Ich habe von Dozenten wie Ines Hildur, Stefanie Etter, Andrea Rozorea, Conny Niehoff, Georg Kleber und Monika Kössl gelernt.</p>
+msgid  "about-intro" 
+msgstr "
+<p>Ich beschäftige mich schon seit vielen Jahren mit der Malerei. In den letzten Jahren habe ich das intensiviert und bin von konkreten Motiven zu abstrakter Malerei übergegangen. Dabei habe ich viele Techniken dazu gelernt und in meine Kunst integriert. Meine Ausbildung habe ich selber gestaltet und mich an mehreren freien Kunstakademien weiter gebildet. Die Kurse wähle ich so aus, dass ich immer da, wo ich meine Grenzen spüre, eine Ausbildungseinheit buche. Es ist sehr beglückend zu sehen, wie dadurch das Können erweitert werden kann. Ich habe von Dozenten wie Ines Hildur, Stefanie Etter, Andrea Rozorea, Conny Niehoff, Georg Kleber und Monika Kössl gelernt.</p>
 <p>Die Kunst gibt mir Freiheit. Die Freiheit, selbst gestalten zu können. Die Freiheit, einen Ausdruck zu finden. Und die Freude daran, die Ergebnisse sichbar vor sich zu sehen.</p>
 <p>Das kreative Arbeiten fordert mich heraus und es erlaubt mir, ständig neue Räume zu erforschen, neue Facetten an mir selber zu entdecken, mit meinen Ecken und Kanten zu leben zu lernen, mit den Materialien zu spielen und sie gezielt einzusetzen.</p>
 <p>Der kreative Prozess beglückt und schmerzt, gibt mir den &bdquo;Flow&&rdquo; und die Verzweiflung des Feststeckens, schön abwechselnd, und kein Bild entsteht ohne beide Seiten durchlebt zu haben.</p>"

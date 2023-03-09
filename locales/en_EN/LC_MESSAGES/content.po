@@ -4,8 +4,8 @@
 # Albert Zedlitz <albert.zedlitz@eezz,biz> 2023.
 #
 msgid  "Version"
-msgstr "1.2.4"
-"Project-Id-Version: 1.2.4\n"
+msgstr "1.2.5"
+"Project-Id-Version: 1.2.5\n"
 "POT-Creation-Date: 2023-01-15 12:57+W. Europe Standard Time\n"
 "PO-Revision-Date:  2023-01-15 12:57+W. Europe Standard Time\n"
 "Last-Translator: Albert Zedlitz <albert.zedlitz@eezz.biz>\n"
@@ -19,8 +19,8 @@ msgstr "1.2.4"
 # Curly brackets in msgstr: &lcub; &rcub;
 # Quotes in msgstr: &bdquo; &rdquo;
 
-#=== Tranlate words and phrases ===============================================
-#: ZedlitzArt : General tables
+# === Tranlate words and phrases ===============================================
+#: -------------------  ZedlitzArt : General tables
 # Techniken
 msgid  "table-technik"
 msgstr "technique"
@@ -70,7 +70,7 @@ msgstr "Resin"
 msgid  "table-size"
 msgstr "size"
 
-#Rahmen
+# Rahmen
 msgid  "table-frame"
 msgstr "frame"
 
@@ -93,7 +93,7 @@ msgid  "table-mixedmedia"
 msgstr "Mixed Media"
 
 msgid  "table-downpour"
-msgstr "downpour"
+msgstr "bulk material"
 
 msgid  "table-wooden-blocks"
 msgstr "wooden block"
@@ -107,8 +107,8 @@ msgstr "Imressum"
 msgid  "table-portfolio"
 msgstr "Portfolio"
 
-#=== MENUE Texte ==============================================================
-#: ZedlitzArt : Menue
+# === MENUE Texte ==============================================================
+#: -------------------  ZedlitzArt : Menue
 msgid  "menu-painting"
 msgstr "Paintings"
 
@@ -127,20 +127,17 @@ msgstr "About Me"
 msgid  "menu-news"
 msgstr "News"
 
-#=== MENUE Keys ==============================================================
-# menu-keys need no translation
 msgid  "menu-keys"
 msgstr "{menu-painting}, {menu-mixed-media}, {menu-printing}, {menu-photo}, {menu-about}, {menu-news}"
 
-#===HOME==============================================================
-#: ZedlitzArt : Main Page
+# === HOME ==============================================================
+#: -------------------  ZedlitzArt : Main Page
 msgid  "main-header"
 msgstr "Abstract photography and art"
 
 msgid  "main-intro"
 msgstr "In times when machines taking over human's work, creativity remains as distinctive mark of the human mind."
 
-# -- caption-keys need no translation
 msgid  "caption-keys-painting"
 msgstr "{menu-painting}"
 
@@ -154,15 +151,15 @@ msgid  "caption-keys-photo"
 msgstr "{menu-photo}"
 
 
-#===PAINTING==============================================================
-#: /malerei : Page Paintings
+# === PAINTING ==============================================================
+#: -------------------  /malerei : Page Paintings
 msgid  "painting-header"
 msgstr "Gallery Painting"
 
 msgid  "painting-intro"
 msgstr "In my paintings, I don't want to show reality, but express my feelings. There's not *too much* or *too less* in an art work, but it's the emotional reaction, what matters. These can be achieved only, if the work refelcts the authenticity of the artist. Sometimes you'll find realistic elements in my paintings, but nver as a copy of realtiy, but an interpretation or translation of my impressions."
 
-#: /malerei/Sprung im Raum : 
+#: ------------------- /malerei/Sprung im Raum ----------------- 
 msgid  "painting-jump-header"
 msgstr "Crack in Space"
 
@@ -172,11 +169,10 @@ msgstr "space<br>in expansion<br>traces hold connection<br>red passion draws cir
 msgid  "painting-jump-descr"
 msgstr "sometimes life gets a crack. the space around you, solid and unbreakable,  suddenly gets a split, a crack, a fissure. Often something new and light can erase and red emotions help you find the way."
 
-# -- table-keys need no translation
 msgid  "table-keys-jump"
-msgstr "{table-Technik}, {table-Acryl}&comma; {table-Chalk}, {table-Carrier}, {table-Canvas}, {table-Size}"
+msgstr "{Table-Technik}, {Table-Acryl}&comma; {Table-Chalk}, {Table-Carrier}, {Table-Canvas}, {Table-Size}"
 
-#: /malerei/Sturmvoegel     : 
+#: -------------------  /malerei/Sturmvoegel ------------------
 msgid  "painting-storm-header"
 msgstr "storm birds"
 
@@ -186,11 +182,10 @@ msgstr "storm<br>dramatic swirl<br>wood is creaking<br>let dance in wind<br>bird
 msgid  "painting-storm-descr"
 msgstr "many layers are below this painting. woven in structures, lines and areas. A long time it doesn't become clear what will develop and suddenly birds dissolve out of the storm of colors and show themselves"
 
-# -- table-keys need no translation
 msgid  "table-keys-storm"
-msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {Table-canvas}, {Table-size}"
 
-#: /malerei/FlyAway     : 
+#: -------------------  /malerei/FlyAway  -------------------  
 msgid  "painting-flyaway-header"
 msgstr "Fly Away"
 
@@ -201,9 +196,9 @@ msgid  "painting-flyaway-descr"
 msgstr "Many layers of silk paper and acrylic colors hide rough lines and colorful areas. Th black lines ceate a harsh frame, where circles of joy crystellize. For me it looks as if they'd rise to sky."
 
 msgid  "table-keys-flyaway"
-msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {Table-canvas}, {Table-size}"
 
-#: /malerei/Geschichte     :
+#: ------------------- /malerei/Geschichte ------------------- 
 msgid  "painting-story-header"
 msgstr "Tell me a story"
 
@@ -213,11 +208,10 @@ msgstr "journey<br>faraway world<br>here and there<br>tell me a story<br>long"
 msgid  "painting-story-descr"
 msgstr "This artwork is in extreme format, very long and not very high. This makes it difficult to keep it together from left to right. The view starts on the left side, captured by the yellow bubble, and then discovers step by step the rest of the picture. This reminds me on how a long story gets told."
 
-# -- table-keys need no translation
 msgid  "table-keys-story"
-msgstr "{table-carrier}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size},,, {table-sold}"
+msgstr "{Table-carrier}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {Table-canvas}, {Table-size},,, {Table-sold}"
 
-#: /malerei/Hain     :
+#: ------------------- /malerei/Hain  ------------------- 
 msgid  "painting-hain-header"
 msgstr "grove"
 
@@ -225,13 +219,12 @@ msgid  "painting-hain-11"
 msgstr "grove<br>networking branches<br>pinpoints of light<br>embraced by colorful green<br>breathe"
 
 msgid  "painting-hain-descr"
-msgstr "'Shinrin-Yoku' is a japanese term for immersing oneself in the atmosphere of a forest for the purpose of physical and emotional wellbeing. This artwork was created after such an experience."
+msgstr "&ldquo;Shinrin-Yoku&rdquo; is a japanese term for immersing oneself in the atmosphere of a forest for the purpose of physical and emotional wellbeing. This artwork was created after such an experience."
 
-# -- table-keys need no translation
 msgid  "table-keys-hain"
-msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {Table-canvas}, {Table-size}"
 
-#: /malerei/dream     :
+#: ------------------- /malerei/dream  ------------------- 
 msgid  "painting-dream-header"
 msgstr "dreams are foam"
 
@@ -239,14 +232,13 @@ msgid  "painting-dream-11"
 msgstr "dreams<br>happy world<br>rich and famous<br>one leads to another<br>foam"
 
 msgid  "painting-dream-descr"
-msgstr "red color in all variants was the challenge for this artwork. I worked with acrylic colors and many different types of chalk and draw the lines with long arms and a lot of energy. The white gossamer reminds me on foam, this is why it is called *dreams are foam*."
+msgstr "Red color in all variants was the challenge for this artwork. I worked with acrylic colors and many different types of chalk and draw the lines with long arms and a lot of energy. The white gossamer reminds me on foam, this is why it is called *dreams are foam*."
 
-# -- table-keys need no translation
 msgid  "table-keys-dream"
-msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {Table-canvas}, {Table-size}"
 
 
-#: /malerei/summer     :
+#: ------------------- /malerei/summer  ------------------- 
 msgid  "painting-summer-header"
 msgstr "Summer"
 
@@ -257,9 +249,9 @@ msgid  "painting-summer-descr"
 msgstr "Many layers are below the yellow colors. All layers, you also would find in nature under a yellow field in summer: black for rocks, brown for soil, green for plant. Together, the form the depth you can shine through the yellow areas."
 
 msgid  "table-keys-summer"
-msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {Table-canvas}, {Table-size}"
 
-#: /malerei/kolibri     :
+#: ------------------- /malerei/kolibri ------------------- 
 msgid  "painting-kolibri-header"
 msgstr "humming bird"
 
@@ -270,47 +262,47 @@ msgid  "painting-kolibri-descr"
 msgstr ""
 
 msgid  "table-keys-kolibri"
-msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {Table-canvas}, {Table-size}"
 
-#===DRUCKE==============================================================
-#: /drucke      : Page Press
+# === DRUCKE ==============================================================
+#: ------------------- /drucke: Page Press ------------------- 
 msgid  "print-header"
 msgstr "Gallery Prints"
 
 msgid  "print-intro"
 msgstr "Printing gives me a completely different challenge as painting. It needs to be planned carefully, I can't just let it flow as in my paintings. Instead, I need to think in advance about the bild composition, the sequence of the colors, and how to implement contrast and excitement into the print. I often use natural materials I find during my daily walks - foliage, grasses, branches- and which I find inspiring, either due to the format or the structure. Many of the materials are already in a status to fade or pass away, eaten away by insects, snapped off by the wind,  bleached of by frost. I like showing their beauty by adding bright colors and contrast on their last journey."
 
-#: /prints/after the burn : 
+#: ------------------- /prints/after the burn -------------------  
 msgid  "print-burn-header"
 msgstr "after the burn"
 
 msgid  "print-burn-descr"
-msgstr "mysterious, a little sombre, the red moon shines behind burned branches."
+msgstr "Mysterious, a little sombre, the red moon shines behind burned branches."
 
 msgid  "table-keys-burn"
-msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+msgstr "{Table-technik}, {Table-gelplate-print}, {Table-carrier}, {Table-paper}, {Table-size}, ,{Table-frame}, {Table-passepartout}"
 
-#: /prints/howl at the moon : 
+#: ------------------- /prints/howl at the moon ------------------- 
 msgid  "print-howl-header"
 msgstr "howl at the moon"
 
 msgid  "print-howl-descr"
-msgstr "a wood in winter with a yellow moon - wolfes howl at it in your fantasy.."
+msgstr "A wood in winter with a yellow moon - wolfes howl at it in your fantasy.."
 
 msgid  "table-keys-howl"
-msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+msgstr "{Table-technik}, {Table-gelplate-print}, {Table-carrier}, {Table-paper}, {Table-size}, ,{Table-frame}, {Table-passepartout}"
 
-#: /prints/feathersII : 
+#: ------------------- /prints/feathersII -------------------  
 msgid  "print-feathers2-header"
 msgstr "feathers II"
 
 msgid  "print-feathers2-descr"
-msgstr "Diese Federn, teilweise ganz glatt und ordentlich, teilweise windzerzaust, habe ich bei meinen täglichen Spziergängen gesammelt und mit Sonnenlicht gedruckt (Cyanotypie)"
+msgstr "Those feathers, partially total smooth and orderly, partially disheveled, I collected on my daily walks, are printed with sunlight ({cyanotypia})"
 
 msgid  "table-keys-feathers2"
-msgstr "{table-technik}, {table-cyanotypie}, {table-carrier}, {table-paper}, {table-size}"
+msgstr "{Table-technik}, {Table-cyanotypie}, {Table-carrier}, {Table-paper}, {Table-size}"
 
-#: /prints/wholes in summer II : 
+#: ------------------- /prints/wholes in summer II ------------------- 
 msgid  "print-summer-hole"
 msgstr "holes in the summer"
 
@@ -318,12 +310,12 @@ msgid  "print-summer-hole2-header"
 msgstr "{print-summer-hole} II"
 
 msgid  "print-summer-hole2-descr"
-msgstr "My series called *wholes in summer* combines foliage, which has been eaten away by insects, with bright colors. So they get a last revival and can present us their interesting beauty for the last time."
+msgstr "My series called &ldquo;holes in summer&rdquo; combines foliage, which has been eaten away by insects, with bright colors. So they get a last revival and can present us their interesting beauty for the last time."
 
 msgid  "table-keys-summer-hole2"
-msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+msgstr "{Table-technik}, {Table-gelplate-print}, {Table-carrier}, {Table-paper}, {Table-size}, ,{Table-frame}, {Table-passepartout}"
 
-#: /prints/wholes in summer III : 
+#: ------------------- /prints/wholes in summer III -------------------  
 msgid  "print-summer-hole3-header"
 msgstr "{print-summer-hole} III"
 
@@ -331,9 +323,9 @@ msgid  "print-summer-hole3-descr"
 msgstr "{print-summer-hole2-descr}"
 
 msgid  "table-keys-summer-hole3"
-msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+msgstr "{Table-technik}, {Table-gelplate-print}, {Table-carrier}, {Table-paper}, {Table-size}, ,{Table-frame}, {Table-passepartout}"
 
-#: /prints/wholes in summer IV : 
+#: ------------------- /prints/wholes in summer IV -------------------  
 msgid  "print-summer-hole4-header"
 msgstr "{print-summer-hole} IV"
 
@@ -341,9 +333,9 @@ msgid  "print-summer-hole4-descr"
 msgstr "{print-summer-hole2-descr}"
 
 msgid  "table-keys-summer-hole4"
-msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+msgstr "{Table-technik}, {Table-gelplate-print}, {Table-carrier}, {Table-paper}, {Table-size}, ,{Table-frame}, {Table-passepartout}"
 
-#: /prints/wholes in summer V : 
+#: ------------------- /prints/wholes in summer V ------------------- 
 msgid  "print-summer-hole5-header"
 msgstr "{print-summer-hole} V"
 
@@ -351,9 +343,9 @@ msgid  "print-summer-hole5-descr"
 msgstr "{print-summer-hole2-descr}"
 
 msgid  "table-keys-summer-hole5"
-msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+msgstr "{Table-technik}, {Table-gelplate-print}, {Table-carrier}, {Table-paper}, {Table-size}, ,{Table-frame}, {Table-passepartout}"
 
-#: /prints/Zärtlich I : 
+#: ------------------- /prints/Zärtlich I -------------------  
 msgid  "print-tender"
 msgstr "tender"
 
@@ -361,12 +353,12 @@ msgid  "print-tender1-header"
 msgstr "{print-tender} I"
 
 msgid  "print-tender1-descr"
-msgstr "tender structures in summer, with tiny seed capsules, which spread pinpoints of light. In a print, completely unvisible plants can tenderly present themselves."
+msgstr "Tender structures in summer, with tiny seed capsules, which spread pinpoints of light. In a print, completely unvisible plants can tenderly present themselves."
 
 msgid  "table-keys-tender1"
-msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+msgstr "{Table-technik}, {Table-gelplate-print}, {Table-carrier}, {Table-paper}, {Table-size}, ,{Table-frame}, {Table-passepartout}"
 
-#: /prints/Zärtlich II : 
+#: ------------------- /prints/Zärtlich II ------------------- 
 msgid  "print-tender2-header"
 msgstr "{print-tender} II"
 
@@ -374,9 +366,9 @@ msgid  "print-tender2-descr"
 msgstr "{print-tender1-descr}"
 
 msgid  "table-keys-tender2"
-msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+msgstr "{Table-technik}, {Table-gelplate-print}, {Table-carrier}, {Table-paper}, {Table-size}, ,{Table-frame}, {Table-passepartout}"
 
-#: /prints/Zärtlich III : 
+#: ------------------- /prints/Zärtlich III -------------------  
 msgid  "print-tender3-header"
 msgstr "{print-tender} III"
 
@@ -384,9 +376,9 @@ msgid  "print-tender3-descr"
 msgstr "{print-tender1-descr}"
 
 msgid  "table-keys-tender3"
-msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+msgstr "{Table-technik}, {Table-gelplate-print}, {Table-carrier}, {Table-paper}, {Table-size}, ,{Table-frame}, {Table-passepartout}"
 
-#: /prints/lines in winter I : 
+#: ------------------- /prints/lines in winter I ------------------- 
 msgid  "print-winter-lines1-header"
 msgstr "lines in winter I"
 
@@ -394,45 +386,45 @@ msgid  "print-winter-lines1-descr"
 msgstr "Winter reduces. It reduces the variety of forms and colors to the necessary and adds a layer of fog on top. In this series I would like to show the reduced beauty of winter."
 
 msgid  "table-keys-winter-lines1"
-msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-passepartout}"
+msgstr "{Table-technik}, {Table-gelplate-print}, {Table-carrier}, {Table-paper}, {Table-size}, ,{Table-frame}, {Table-passepartout}"
 
-#: /drucke/Frozen Passion :
+#: -------------------  /drucke/Frozen Passion :
 msgid  "print-frozen-header"
 msgstr "Frozen Passion"
 
 msgid  "print-frozen-descr"
-msgstr "Eine Passionsblume, die sich über den Sommer in langen Ranken um die umliegenden Sträucher gelegt hatte und im Winter erfroren ist – noch sind die Blütenblätter erkennbar, die Ranken stabil, aber schon farblos und bleich in der Kälte."
+msgstr "A passion flower, which embraced nearby bushes during summer with long its long tendrills and now frozen durring winter -up to now the parts of the leave is still visible, the structrue stable, but colorless and pale in the cold."
 
 msgid  "table-keys-frozen"
-msgstr "{table-technik}, {table-gelplate-print}, {table-carrier}, {table-paper}, {table-size}, ,{table-frame}, {table-framed}"
+msgstr "{Table-technik}, {Table-gelplate-print}, {Table-carrier}, {Table-paper}, {Table-size}, ,{Table-frame}, {Table-framed}"
 
-#: /drucke/Feathers I :
+#: -------------------  /drucke/Feathers I :
 msgid  "print-feather1-header"
 msgstr "Feathers I"
 
 
-#===MIXEDMEDIA==============================================================
-#: /mixed media : Page Mixed Media
+# === MIXED-MEDIA ==============================================================
+#: -------------------  /mixed media : Page Mixed Media
 msgid  "mixed-media-header"
 msgstr "Gallery Mixed Media"
 
 msgid  "mixed-media-intro"
-msgstr "+In dem Bereich MixedMedia steht das spielerische Zusammenfügen von Papieren, Schüttungen, Linien und Materialien im Vordergrund. Alles, was in meinem Atelier so rumsteht, kommt zum Einsatz. Da wird geklebt und gekritzelt, geschüttet und wieder frei gekratzt. Das Eintauchen in den "kreativen Flow" ist eine Arbeit mit viel Leichtigkeit."
+msgstr "In section Mixed-Media the central point is the playfull combination of different sort of materials as paper, bulk material and drawing lines. So all things in my workshop will come into use. There is pasting and scribbling, pouring and scratching free again. The deep dive into the &ldquo;creative Flow&rdquo; is a work with much ease."
 
-#: /mixed media/ Winter Findling I
+#: -------------------  /mixed media/ Winter Findling I
 msgid  "mixed-findling1-header"
 msgstr "Winter Findling I"
 
 msgid  "table-keys-findling1"
-msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, 3 {table-wooden-blocks-plural}, {table-size}"
+msgstr "{Table-technik}, {Table-mixedmedia}, {Table-carrier}, 3 {Table-wooden-blocks-plural}, {Table-size}"
 
 msgid  "mixed-findling2-header"
 msgstr "Winter Findling II"
 
 msgid  "table-keys-findling2"
-msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, 4 {table-wooden-blocks-plural}, {table-size}"
+msgstr "{Table-technik}, {Table-mixedmedia}, {Table-carrier}, 4 {Table-wooden-blocks-plural}, {Table-size}"
 
-#: /mixed/Quintessenz : 
+#: -------------------  /mixed/Quintessenz : 
 msgid  "mixed-quintessenz-header"
 msgstr "Quintessence"
 
@@ -440,12 +432,12 @@ msgid  "mixed-quintessenz-11"
 msgstr "pollenflug<br>frühling sprüht<br>neues leben lacht<br>manchen läuft die nase<br>quintessenz"
 
 msgid  "mixed-quintessenz-descr"
-msgstr "Dieses Bild entstand auf einer Spanplatte, auf die ich erst einmal verschiedene Schüttungen aufgebracht hatte. Dann saß ich lange davor, bis sich die rote Form zeigte. Mit Seidenpapier, Kreiden und Acrylfarbe arbeitete ich dieses Bild aus, das mich an Frühling, Blüten, und Elemente, die durch die Luft schweben erinnert."
+msgstr "This picture was created on a chipboard, on which I had first applied various bulk materials. Then I sat in front of it for a long time until the red shape showed up. I worked out this picture with tissue paper, chalk and acrylic paint, which reminds me of spring, flowers, and elements, which are floating through the air."
 
 msgid  "table-keys-quintessenz"
-msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}&comma; etc, {table-carrier}, {table-wood}, {table-size}"
+msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}&comma; etc, {Table-carrier}, {Table-wood}, {Table-size}"
 
-#: /mixed/Stakkato : 
+#: -------------------  /mixed/Stakkato : 
 msgid  "mixed-stakkato-header"
 msgstr "Stakkato"
 
@@ -453,42 +445,42 @@ msgid  "mixed-stakkato-11"
 msgstr "stakkato<br>grüner rhythmus<br>durchsetzt das licht<br>eine reihe ereignisse bringt<br>verbindung"
 
 msgid  "mixed-stakkato-descr"
-msgstr "Dieses Bild entstand auf einer Spanplatte, auf die ich erst einmal verschiedene Schüttungen aufgebracht hatte. Dann saß ich lange davor, bis sich die rote Form zeigte. Mit Seidenpapier, Kreiden und Acrylfarbe arbeitete ich dieses Bild aus, das mich an Frühling, Blüten, und Elemente, die durch die Luft schweben erinnert."
+msgstr "This picture was created on a chipboard, on which I had first applied various bulk materials. Then I sat in front of it for a long time until the red shape showed up. I worked out this picture with tissue paper, chalk and acrylic paint, which reminds me of spring, flowers, and elements, which are floating through the air."
 
 msgid  "table-keys-stakkato"
-msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}&comma; etc, {table-carrier}, {table-wood}, {table-size}"
+msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}&comma; etc, {Table-carrier}, {Table-wood}, {Table-size}"
 
-#: /mixed/Krähenbaum : 
+#: -------------------  /mixed/Krähenbaum : 
 msgid  "mixed-crow-tree-header"
 msgstr "craws in tree"
 
 msgid  "mixed-crow-tree-descr"
-msgstr "Dieses Bild entstand auf einer Spanplatte, auf die ich erst einmal verschiedene Schüttungen aufgebracht hatte. Dann saß ich lange davor, bis sich die rote Form zeigte. Mit Seidenpapier, Kreiden und Acrylfarbe arbeitete ich dieses Bild aus, das mich an Frühling, Blüten, und Elemente, die durch die Luft schweben erinnert."
+msgstr "This picture was created on a chipboard, on which I had first applied various bulk materials. Then I sat in front of it for a long time until the red shape showed up. I worked out this picture with tissue paper, chalk and acrylic paint, which reminds me of spring, flowers, and elements, which are floating through the air."
 
 msgid  "table-keys-crow-tree"
-msgstr "{table-technik}, {table-downpour}&comma; {table-paper}&comma; etc, {table-carrier}, {table-paper}, {table-size}"
+msgstr "{Table-technik}, {Table-downpour}&comma; {Table-paper}&comma; etc, {Table-carrier}, {Table-paper}, {Table-size}"
 
-#: /mixed/winterbaum : 
+#: -------------------  /mixed/winterbaum : 
 msgid  "mixed-winter-tree"
 msgstr "winter tree"
 
 msgid  "mixed-winter-tree-descr"
-msgstr "Dieses Bild entstand auf einer Spanplatte, auf die ich erst einmal verschiedene Schüttungen aufgebracht hatte. Dann saß ich lange davor, bis sich die rote Form zeigte. Mit Seidenpapier, Kreiden und Acrylfarbe arbeitete ich dieses Bild aus, das mich an Frühling, Blüten, und Elemente, die durch die Luft schweben erinnert."
+msgstr "This picture was created on a chipboard, on which I had first applied various bulk materials. Then I sat in front of it for a long time until the red shape showed up. I worked out this picture with tissue paper, chalk and acrylic paint, which reminds me of spring, flowers, and elements, which are floating through the air."
 
 msgid  "table-keys-winter-tree"
-msgstr " , {table-sold}, {table-carrier}, {table-gips} &amp; {table-paper}, {table-size}"
+msgstr " , {Table-sold}, {Table-carrier}, {Table-gips} &amp; {Table-paper}, {Table-size}"
 
 
 msgid  "mixed-winter-tree2-header"
 msgstr "{mixed-winter-tree} II"
 
 msgid  "table-keys-winter2"
-msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, 2 {table-wooden-blocks-plural}, {table-size}"
+msgstr "{Table-technik}, {Table-mixedmedia}, {Table-carrier}, 2 {Table-wooden-blocks-plural}, {Table-size}"
 
 msgid  "mixed-winter-tree2-descr"
 msgstr ""
 
-#: /mixed media/Crazy :
+#: -------------------  /mixed media/Crazy :
 msgid  "mixed-crazy-header"
 msgstr "Crazy"
 
@@ -496,9 +488,9 @@ msgid  "mixed-crazy-descr"
 msgstr ""
 
 msgid  "table-keys-crazy"
-msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, {table-wooden-blocks}, {table-size}"
+msgstr "{Table-technik}, {Table-mixedmedia}, {Table-carrier}, {Table-wooden-blocks}, {Table-size}"
 
-#: /mixed media/Chic :
+#: -------------------  /mixed media/Chic :
 msgid  "mixed-chic-header"
 msgstr "Chic"
 
@@ -506,30 +498,30 @@ msgid  "mixed-chic-descr"
 msgstr ""
 
 msgid  "table-keys-chic"
-msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, {table-wooden-blocks}, {table-size}"
+msgstr "{Table-technik}, {Table-mixedmedia}, {Table-carrier}, {Table-wooden-blocks}, {Table-size}"
 
 
-#: /mixed/heyda : 
+#: -------------------  /mixed/heyda : 
 msgid  "mixed-heyda-header"
 msgstr "hey there!"
 
 msgid  "mixed-heyda-descr"
-msgstr "Dieses Bild entstand auf einer Spanplatte, auf die ich erst einmal verschiedene Schüttungen aufgebracht hatte. Dann saß ich lange davor, bis sich die rote Form zeigte. Mit Seidenpapier, Kreiden und Acrylfarbe arbeitete ich dieses Bild aus, das mich an Frühling, Blüten, und Elemente, die durch die Luft schweben erinnert."
+msgstr "This picture was created on a chipboard, on which I had first applied various bulk materials. Then I sat in front of it for a long time until the red shape showed up. I worked out this picture with tissue paper, chalk and acrylic paint, which reminds me of spring, flowers, and elements, which are floating through the air."
 
 msgid  "table-keys-heyda"
-msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-paper}, {table-size}"
+msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {Table-paper}, {Table-size}"
 
-#: /mixed/heydu : 
+#: -------------------  /mixed/heydu : 
 msgid  "mixed-heydu-header"
 msgstr "hey you!"
 
 msgid  "mixed-heydu-descr"
-msgstr "Dieses Bild entstand auf einer Spanplatte, auf die ich erst einmal verschiedene Schüttungen aufgebracht hatte. Dann saß ich lange davor, bis sich die rote Form zeigte. Mit Seidenpapier, Kreiden und Acrylfarbe arbeitete ich dieses Bild aus, das mich an Frühling, Blüten, und Elemente, die durch die Luft schweben erinnert."
+msgstr "{mixed-heyda-descr}"
 
 msgid  "table-keys-heydu"
-msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-paper}, {table-size}"
+msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {Table-paper}, {Table-size}"
 
-#: /mixed media/Nest :
+#: -------------------  /mixed media/Nest :
 msgid  "mixed-nest-header"
 msgstr "Nest"
 
@@ -537,9 +529,9 @@ msgid  "mixed-nest-descr"
 msgstr ""
 
 msgid  "table-keys-nest"
-msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, {table-paper}, {table-size}"
+msgstr "{Table-technik}, {Table-mixedmedia}, {Table-carrier}, {Table-paper}, {Table-size}"
 
-#: /mixed media/Summer Feeling :
+#: -------------------  /mixed media/Summer Feeling :
 msgid  "mixed-summer-feeling-header"
 msgstr "Summer Feeling"
 
@@ -547,10 +539,10 @@ msgid  "mixed-summer-feeling-desst-descr"
 msgstr ""
 
 msgid  "table-keys-summer-feeling"
-msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}&comma; etc, {table-carrier}, {table-canvas}, {table-size}"
+msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}&comma; etc, {Table-carrier}, {Table-canvas}, {Table-size}"
 
 
-#: /mixed/holes in summer: 
+#: -------------------  /mixed/holes in summer: 
 msgid  "mixed-summer-hole"
 msgstr "holes in summer"
 
@@ -558,10 +550,10 @@ msgid  "mixed-summer-hole1-header"
 msgstr "{mixed-summer-hole} I"
 
 msgid  "mixed-summer-hole1-descr"
-msgstr "My series called *wholes in summer* combines foliage, which has been eaten away by insects, with bright colors. So they get a last revival and can present us their interesting beauty for the last time. <br> The print has been mounted on a wooden corpus and covered with a layer of epoxy resin, which give the artwork additional depth and brightness."
+msgstr "My series called &ldquo;holes in summer&rdquo; combines foliage, which has been eaten away by insects, with bright colors. So they get a last revival and can present us their interesting beauty for the last time. <br> The print has been mounted on a wooden corpus and covered with a layer of epoxy resin, which give the artwork additional depth and brightness."
 
 msgid  "table-keys-summer-hole1"
-msgstr "{table-technik}, {table-print} + {table-resin}, {table-carrier}, {table-wooden-blocks}, {table-size}"
+msgstr "{Table-technik}, {Table-print} + {Table-resin}, {Table-carrier}, {Table-wooden-blocks}, {Table-size}"
 
 msgid  "mixed-summer-hole6-header"
 msgstr "{mixed-summer-hole} VI"
@@ -570,7 +562,7 @@ msgid  "mixed-summer-hole6-descr"
 msgstr "{mixed-summer-hole1-descr}"
 
 msgid  "table-keys-summer-hole6"
-msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, {table-wooden-blocks}, {table-size}"
+msgstr "{Table-technik}, {Table-mixedmedia}, {Table-carrier}, {Table-wooden-blocks}, {Table-size}"
 
 msgid  "mixed-summer-hole7-header"
 msgstr "{mixed-summer-hole} VII"
@@ -579,51 +571,45 @@ msgid  "mixed-summer-hole7-descr"
 msgstr "{mixed-summer-hole1-descr}"
 
 msgid  "table-keys-summer-hole7"
-msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, {table-wooden-blocks}, {table-size}"
+msgstr "{Table-technik}, {Table-mixedmedia}, {Table-carrier}, {Table-wooden-blocks}, {Table-size}"
 
-#: /mixed/summerfeeling : 
+#: -------------------  /mixed/summerfeeling : 
 msgid  "mixed-summerfeeling-header"
 msgstr "summer feeling!"
 
 msgid  "mixed-summerfeeling-descr"
-msgstr "Dieses Bild entstand auf einer Spanplatte, auf die ich erst einmal verschiedene Schüttungen aufgebracht hatte. Dann saß ich lange davor, bis sich die rote Form zeigte. Mit Seidenpapier, Kreiden und Acrylfarbe arbeitete ich dieses Bild aus, das mich an Frühling, Blüten, und Elemente, die durch die Luft schweben erinnert."
+msgstr "{mixed-heyda-descr}"
 
 
-==PHOTO==============================================================
-#: /fotografie  : Page Foto
+== PHOTO ==============================================================
+#: -------------------  /fotografie  : Page Foto
 msgid  "foto-header"
-msgstr "Galerie Fotografie"
+msgstr "Gallery Foto"
 
 msgid  "foto-intro"
-msgstr "Fotografieren ist für mich ein tägliches Neuentdecken meiner Umgebung. Für die meisten Bilder fahren ich nicht mal weg. Ich stelle auch nicht gezielt die Aufnahmen sondern finde das Motiv auf dem Weg. Daran habe ich selber sehr viel Freude, denn meine Umgebung erscheint mir jeden Tag anders und spannend. Meine Entdeckerfreude wird angestachelt und es macht mich glücklich, wenn ich einen neuen Blickwinkel gefunden habe."
+msgstr "Foto shooting for me is a daily new discovery of my surrounding. For most of the pictures I do not even travel far away. I neither setup special arrangements, but instead just find a motif on the way. I enjoy this approach, because my surrounding seems to be more exiting every day. My joy of discovery is inflicted and it makes me happy, if I found the right angel of view." 
 
 msgid  "foto-price-tag"
-msgstr "Please find all prices in the table below."
-
-msgid  "foto-price-tag"
-msgstr "Preise für die Fotografien"
+msgstr "Prices of the fotos"
 
 msgid  "foto-price-tag-ref"
-msgstr "{foto-price-tag} finden sie unten in der Tabelle."
+msgstr "{foto-price-tag} could be found in the table below."
 
 msgid  "foto-product-descr"
-msgstr "Alle Fotografien werden auf feinem Hahnemühle Papier mit einer sehr leichten Struktur gedruckt. Dadurch kommen die Farben gut zur Geltung und dem Foto wird eine Tiefenwirkung verliehen, das durch die matte Oberfläche noch verstärkt wird. (Grammatur 308g/m2, Glanzgrad matt)"
+msgstr "All fotos will be printed on Hahnemühle paper, which has a fine structure. This way all colors come to their own and the photo is given a depth effect, which is reinforced by the surface. Alle Fotografien werden auf feinem Hahnemühle Papier mit einer sehr leichten Struktur gedruckt. (grammage  308g/m2, Degree of gloss matt)"
 
 msgid  "table-keys-foto-prices"
-msgstr "DIN A4 mit Passepartout,,DIN A3 mit Passepartout,,DIN A4 auf Holzkörper und mit Resin überzogen,,DIN A3 auf Holzkörper und mit Resin überzogen,,andere Formate auf Anfrage"
+msgstr "DIN A4 with passepartout,,DIN A3 with passepartout,,DIN A4 on wooden body covered with resin,,DIN A3 on wooden body covered with resin,,Other formats upon request"
 
-#===ABOUTME==============================================================
+#=== ABOUT ME ==============================================================
 msgid  "about-header"
 msgstr "Über Mich"
 
 msgid  "about-intro"
-msgstr "<p>Ich beschäftige mich schon seit vielen Jahren mit der Malerei. In den letzten Jahren habe ich das intensiviert und bin von konkreten Motiven zu abstrakter Malerei übergegangen. Dabei habe ich viele Techniken dazu gelernt und in meine Kunst integriert. Meine Ausbildung habe ich selber gestaltet und mich an mehreren freien Kunstakademien weiter gebildet. Die Kurse wähle ich so aus, dass ich immer da, wo ich meine Grenzen spüre, eine Ausbildungseinheit buche. Es ist sehr beglückend zu sehen, wie dadurch das Können erweitert werden kann. Ich habe von Dozenten wie Ines Hildur, Stefanie Etter, Andrea Rozorea, Conny Niehoff, Georg Kleber und Monika Kössl gelernt.</p>
-<p>Die Kunst gibt mir Freiheit. Die Freiheit, selbst gestalten zu können. Die Freiheit, einen Ausdruck zu finden. Und die Freude daran, die Ergebnisse sichbar vor sich zu sehen.</p>
-<p>Das kreative Arbeiten fordert mich heraus und es erlaubt mir, ständig neue Räume zu erforschen, neue Facetten an mir selber zu entdecken, mit meinen Ecken und Kanten zu leben zu lernen, mit den Materialien zu spielen und sie gezielt einzusetzen.</p>
-<p>Der kreative Prozess beglückt und schmerzt, gibt mir den &bdquote;Flow&rdquote; und die Verzweiflung des Feststeckens, schön abwechselnd, und kein Bild entsteht ohne beide Seiten durchlebt zu haben.</p>"
+msgstr "<p>I have been painting for many years. In last years I have intensified this and starting with figurative art I switched to abstract motives. In this regards I learned a number of techniques, which I integrated into my art. I organized the all the study on my own and trained at several free art academies. I choose my courses in a way, so that I could overcome the next limitation. It's very peasing to see, how skills could be aproved by this. I took courses with teachers as Ines Hildur, Stefanie Etter, Andrea Rozorea, Conny Niehoff, Georg Kleber und Monika Kössl</p><p>The art gives me the freedom to create thinks on my own. The freedom to find my own expression. And the joy to have the results visible in front of me.</p><p>Creative work is challenging and it allows me, to discover new regions, to discover new facets of myself, to live with my  rough edges, to play with different materials and place them purposefully.</p><p>The creaative process makes happy and hurts, gives me the &ldquo;Flow&rdquo; and the desperation of beeing stuck, but also the joy of varieties. No picture comes to live without me having experienced both sides.</p>"
 
 msgid  "about-impressum-hdr"
-msgstr "Impressum: Verantwortlich für den Inhalt"
+msgstr "Impressum: Resposible for the content"
 
 msgid  "about-impressum-txt"
 msgstr "Bettina Zedlitz<br>Adresse: Mühlstr.44, 69168 Wiesloch<br>Telefon: +49<br>(0)15157118431<br>E-Mail: info@zedlitzart.de"
@@ -632,14 +618,14 @@ msgid  "about-copyright-hdr"
 msgstr "Copyright"
 
 msgid  "about-copyright-txt"
-msgstr "Sämtliche Texte, Bilder und andere in der Webseite veröffentlichten Informationen unterliegen – sofern nicht anders gekennzeichnet – dem Copyright von Bettina Zedlitz<br>
-Jeder Vervielfältigung, Verbreitung, Speicherung und Wieder- bzw. Weitergabe der Inhalte ist, ohne schriftliche Genehmigung von Bettina Zedlitz untersagt."
+msgstr "All texts, pictures and other information on the WEB site are subject to the copyright of Bettina Zedlitz<br>
+Any duplication, distribution, storage and reproduction or transmission of the content is prohibited without the written permission of Bettina Zedlitz."
 
 msgid  "about-disclaimer-hdr"
 msgstr "Disclaimer"
 
 msgid  "about-disclaimer-txt"
-msgstr "Ich betone ausdrücklich, dass ich keinerlei Einfluss auf die Gestaltung und Inhalte der verlinkten Webseiten habe. Daher distanziere ich mich ausdrücklich von allen Inhalten aller gelinkten Webseiten auf meiner gesamten Webseite inkl. aller Unterseiten und deren Unterlinks oder anderen Weiterleitungsmechanismen. Diese Erklärung gilt für alle, auf meiner Homepage ausgebrachten Links und für alle Inhalte der Seiten, zu denen Links, Banner oder sonstige Verknüpfungen führen. "
+msgstr "I expressly emphasize that I have no influence on the design and content of the linked websites. I therefore explicitly distance myself from all content on all linked websites on my entire website, including all sub-pages and their sub-links or other forwarding mechanisms. This declaration applies to all links on my homepage and to all content of the pages which lead to links, banners or other connections."
 
 
-#===NEWS==============================================================
+#=== NEWS ==============================================================

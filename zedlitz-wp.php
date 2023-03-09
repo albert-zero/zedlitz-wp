@@ -3,7 +3,7 @@
 Plugin Name: zedlitz-wp
 Plugin URI:  https://github.com/albert-zero/zedlitz-wp
 Description: Plugin to support popups and localization
-Version:     1.2.4
+Version:     1.2.5
 Author:      Albert Zedlitz
 License:     free
 */

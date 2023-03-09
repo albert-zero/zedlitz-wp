@@ -26,8 +26,8 @@ def getFileName(aLanguage: str = "") -> str:
 def doSplitFile(aFile: str) -> dict:
     with open(aFile, "r", encoding="utf-8") as f:
         xContent = f.read()
-        xResArr  = re.findall(r'msgid[\s]+"(.*)"\nmsgstr[\s]+"(.*)"', xContent)
-        xDict    = { xKey.lower() : xVal.encode('ascii', 'xmlcharrefreplace').decode('utf-8') for xKey, xVal in xResArr }
+        xResArr  = re.findall(r'msgid[\s]+"(.*)"[\s]+msgstr[\s]+"([^"]+)"', xContent)
+        xDict    = { xKey.lower() : xVal.replace('\n', ' ').encode('ascii', 'xmlcharrefreplace').decode('utf-8') for xKey, xVal in xResArr }
     return xDict
 
 # Main entry

@@ -1,7 +1,7 @@
 <?php
 /*
  * Author:      Albert Zedlitz
- * Version:     1.2.4
+ * Version:     1.2.5
  * License:     free
  *
  * Auto-Update implementation
