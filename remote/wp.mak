@@ -5,8 +5,8 @@
 # Generate the workpress project and manage updates
 #
 root_path   = ~/Projects/plugin
-wp_path     = ~/Projects/plugin/zedlitz-wp
-dest_path   = ~/Projects/plugin/remote
+wp_path     = $(root_path)/zedlitz-wp
+dest_path   = $(root_path)/remote
 
 version_old = '1.2.4'
 version_new = '1.2.5'

@@ -474,6 +474,9 @@ msgstr "{table-technik}, {table-downpour}&comma; {table-paper}&comma; etc, {tabl
 msgid  "mixed-winter-tree"
 msgstr "Winterbaum"
 
+msgid  "mixed-winter-tree-header"
+msgstr "{mixed-winter-tree}"
+
 msgid  "mixed-winter-tree-descr"
 msgstr "Dieses Bild entstand auf einer Spanplatte, auf die ich erst einmal verschiedene Schüttungen aufgebracht hatte. Dann saß ich lange davor, bis sich die rote Form zeigte. Mit Seidenpapier, Kreiden und Acrylfarbe arbeitete ich dieses Bild aus, das mich an Frühling, Blüten, und Elemente, die durch die Luft schweben erinnert."
 

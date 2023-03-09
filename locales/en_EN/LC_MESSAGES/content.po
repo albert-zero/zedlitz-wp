@@ -470,6 +470,9 @@ msgstr "{Table-technik}, {Table-downpour}&comma; {Table-paper}&comma; etc, {Tabl
 msgid  "mixed-winter-tree"
 msgstr "Winter Tree"
 
+msgid  "mixed-winter-tree-header"
+msgstr "{mixed-winter-tree}"
+
 msgid  "mixed-winter-tree-descr"
 msgstr "This picture was created on a chipboard, on which I had first applied various bulk materials. Then I sat in front of it for a long time until the red shape showed up. I worked out this picture with tissue paper, chalk and acrylic paint, which reminds me of spring, flowers, and elements, which are floating through the air."
 
@@ -618,7 +621,10 @@ msgid  "about-header"
 msgstr "About Ne"
 
 msgid  "about-intro"
-msgstr "<p>I have been painting for many years. In last years I have intensified this and starting with figurative art I switched to abstract motives. In this regards I learned a number of techniques, which I integrated into my art. I organized the all the study on my own and trained at several free art academies. I choose my courses in a way, so that I could overcome the next limitation. It's very peasing to see, how skills could be aproved by this. I took courses with teachers as Ines Hildur, Stefanie Etter, Andrea Rozorea, Conny Niehoff, Georg Kleber und Monika Kössl</p><p>The art gives me the freedom to create thinks on my own. The freedom to find my own expression. And the joy to have the results visible in front of me.</p><p>Creative work is challenging and it allows me, to discover new regions, to discover new facets of myself, to live with my  rough edges, to play with different materials and place them purposefully.</p><p>The creaative process makes happy and hurts, gives me the &ldquo;Flow&rdquo; and the desperation of beeing stuck, but also the joy of varieties. No picture comes to live without me having experienced both sides.</p>"
+msgstr "<p>I have been painting for many years. In last years I have intensified this and starting with figurative art I switched to abstract motives. In this regards I learned a number of techniques, which I integrated into my art. I organized the all the study on my own and trained at several free art academies. I choose my courses in a way, so that I could overcome the next limitation. It's very peasing to see, how skills could be aproved by this. I took courses with teachers as Ines Hildur, Stefanie Etter, Andrea Rozorea, Conny Niehoff, Georg Kleber und Monika Kössl</p>
+<p>The art gives me the freedom to create thinks on my own. The freedom to find my own expression. And the joy to have the results visible in front of me.</p>
+<p>Creative work is challenging and it allows me, to discover new regions, to discover new facets of myself, to live with my  rough edges, to play with different materials and place them purposefully.</p>
+<p>The creaative process makes happy and hurts, gives me the &ldquo;Flow&rdquo; and the desperation of beeing stuck, but also the joy of varieties. No picture comes to live without me having experienced both sides.</p>"
 
 msgid  "about-impressum-hdr"
 msgstr "Impressum: Resposible for the content"
