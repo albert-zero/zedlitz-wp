@@ -107,6 +107,12 @@ msgstr "Imressum"
 msgid  "table-portfolio"
 msgstr "Portfolio"
 
+msgid  "table-autum"
+msgstr "autum"
+
+msgid  "table-summer"
+msgstr "summer"
+
 # === MENUE Texte ==============================================================
 #: -------------------  ZedlitzArt : Menue
 msgid  "menu-painting"
@@ -174,7 +180,7 @@ msgstr "{Table-Technik}, {Table-Acryl}&comma; {Table-Chalk}, {Table-Carrier}, {T
 
 #: -------------------  /malerei/Sturmvoegel ------------------
 msgid  "painting-storm-header"
-msgstr "storm birds"
+msgstr "Storm Birds"
 
 msgid  "painting-storm-11"
 msgstr "storm<br>dramatic swirl<br>wood is creaking<br>let dance in wind<br>birds"
@@ -200,7 +206,7 @@ msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {T
 
 #: ------------------- /malerei/Geschichte ------------------- 
 msgid  "painting-story-header"
-msgstr "Tell me a story"
+msgstr "Tell me a Story"
 
 msgid  "painting-story-11"
 msgstr "journey<br>faraway world<br>here and there<br>tell me a story<br>long"
@@ -213,7 +219,7 @@ msgstr "{Table-carrier}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {T
 
 #: ------------------- /malerei/Hain  ------------------- 
 msgid  "painting-hain-header"
-msgstr "grove"
+msgstr "Grove"
 
 msgid  "painting-hain-11"
 msgstr "grove<br>networking branches<br>pinpoints of light<br>embraced by colorful green<br>breathe"
@@ -226,7 +232,7 @@ msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {T
 
 #: ------------------- /malerei/dream  ------------------- 
 msgid  "painting-dream-header"
-msgstr "dreams are foam"
+msgstr "Dreams are Foam"
 
 msgid  "painting-dream-11"
 msgstr "dreams<br>happy world<br>rich and famous<br>one leads to another<br>foam"
@@ -240,7 +246,7 @@ msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {T
 
 #: ------------------- /malerei/summer  ------------------- 
 msgid  "painting-summer-header"
-msgstr "Summer"
+msgstr "{Table-summer}"
 
 msgid  "painting-summer-11"
 msgstr ""
@@ -253,7 +259,7 @@ msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {T
 
 #: ------------------- /malerei/kolibri ------------------- 
 msgid  "painting-kolibri-header"
-msgstr "humming bird"
+msgstr "Humming-Bird"
 
 msgid  "painting-kolibri-11"
 msgstr ""
@@ -274,7 +280,7 @@ msgstr "Printing gives me a completely different challenge as painting. It needs
 
 #: ------------------- /prints/after the burn -------------------  
 msgid  "print-burn-header"
-msgstr "after the burn"
+msgstr "After the Burn"
 
 msgid  "print-burn-descr"
 msgstr "Mysterious, a little sombre, the red moon shines behind burned branches."
@@ -284,7 +290,7 @@ msgstr "{Table-technik}, {Table-gelplate-print}, {Table-carrier}, {Table-paper},
 
 #: ------------------- /prints/howl at the moon ------------------- 
 msgid  "print-howl-header"
-msgstr "howl at the moon"
+msgstr "Howl at the Moon"
 
 msgid  "print-howl-descr"
 msgstr "A wood in winter with a yellow moon - wolfes howl at it in your fantasy.."
@@ -304,7 +310,7 @@ msgstr "{Table-technik}, {Table-cyanotypie}, {Table-carrier}, {Table-paper}, {Ta
 
 #: ------------------- /prints/wholes in summer II ------------------- 
 msgid  "print-summer-hole"
-msgstr "holes in the summer"
+msgstr "Holes in the Summer"
 
 msgid  "print-summer-hole2-header"
 msgstr "{print-summer-hole} II"
@@ -350,7 +356,7 @@ msgid  "print-tender"
 msgstr "tender"
 
 msgid  "print-tender1-header"
-msgstr "{print-tender} I"
+msgstr "{Print-tender} I"
 
 msgid  "print-tender1-descr"
 msgstr "Tender structures in summer, with tiny seed capsules, which spread pinpoints of light. In a print, completely unvisible plants can tenderly present themselves."
@@ -360,27 +366,27 @@ msgstr "{Table-technik}, {Table-gelplate-print}, {Table-carrier}, {Table-paper},
 
 #: ------------------- /prints/Zärtlich II ------------------- 
 msgid  "print-tender2-header"
-msgstr "{print-tender} II"
+msgstr "{Print-tender} II"
 
 msgid  "print-tender2-descr"
-msgstr "{print-tender1-descr}"
+msgstr "{Print-tender1-descr}"
 
 msgid  "table-keys-tender2"
 msgstr "{Table-technik}, {Table-gelplate-print}, {Table-carrier}, {Table-paper}, {Table-size}, ,{Table-frame}, {Table-passepartout}"
 
 #: ------------------- /prints/Zärtlich III -------------------  
 msgid  "print-tender3-header"
-msgstr "{print-tender} III"
+msgstr "{Print-tender} III"
 
 msgid  "print-tender3-descr"
-msgstr "{print-tender1-descr}"
+msgstr "{Print-tender1-descr}"
 
 msgid  "table-keys-tender3"
 msgstr "{Table-technik}, {Table-gelplate-print}, {Table-carrier}, {Table-paper}, {Table-size}, ,{Table-frame}, {Table-passepartout}"
 
 #: ------------------- /prints/lines in winter I ------------------- 
 msgid  "print-winter-lines1-header"
-msgstr "lines in winter I"
+msgstr "Lines in Winter I"
 
 msgid  "print-winter-lines1-descr"
 msgstr "Winter reduces. It reduces the variety of forms and colors to the necessary and adds a layer of fog on top. In this series I would like to show the reduced beauty of winter."
@@ -452,7 +458,7 @@ msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}&comma; etc, {Table-c
 
 #: -------------------  /mixed/Krähenbaum : 
 msgid  "mixed-crow-tree-header"
-msgstr "craws in tree"
+msgstr "Crows in Tree"
 
 msgid  "mixed-crow-tree-descr"
 msgstr "This picture was created on a chipboard, on which I had first applied various bulk materials. Then I sat in front of it for a long time until the red shape showed up. I worked out this picture with tissue paper, chalk and acrylic paint, which reminds me of spring, flowers, and elements, which are floating through the air."
@@ -462,7 +468,7 @@ msgstr "{Table-technik}, {Table-downpour}&comma; {Table-paper}&comma; etc, {Tabl
 
 #: -------------------  /mixed/winterbaum : 
 msgid  "mixed-winter-tree"
-msgstr "winter tree"
+msgstr "Winter Tree"
 
 msgid  "mixed-winter-tree-descr"
 msgstr "This picture was created on a chipboard, on which I had first applied various bulk materials. Then I sat in front of it for a long time until the red shape showed up. I worked out this picture with tissue paper, chalk and acrylic paint, which reminds me of spring, flowers, and elements, which are floating through the air."
@@ -503,7 +509,7 @@ msgstr "{Table-technik}, {Table-mixedmedia}, {Table-carrier}, {Table-wooden-bloc
 
 #: -------------------  /mixed/heyda : 
 msgid  "mixed-heyda-header"
-msgstr "hey there!"
+msgstr "Hey There!"
 
 msgid  "mixed-heyda-descr"
 msgstr "This picture was created on a chipboard, on which I had first applied various bulk materials. Then I sat in front of it for a long time until the red shape showed up. I worked out this picture with tissue paper, chalk and acrylic paint, which reminds me of spring, flowers, and elements, which are floating through the air."
@@ -513,7 +519,7 @@ msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {T
 
 #: -------------------  /mixed/heydu : 
 msgid  "mixed-heydu-header"
-msgstr "hey you!"
+msgstr "Hey You!"
 
 msgid  "mixed-heydu-descr"
 msgstr "{mixed-heyda-descr}"
@@ -544,7 +550,7 @@ msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}&comma; etc, {Table-c
 
 #: -------------------  /mixed/holes in summer: 
 msgid  "mixed-summer-hole"
-msgstr "holes in summer"
+msgstr "Holes in Summer"
 
 msgid  "mixed-summer-hole1-header"
 msgstr "{mixed-summer-hole} I"
@@ -575,7 +581,7 @@ msgstr "{Table-technik}, {Table-mixedmedia}, {Table-carrier}, {Table-wooden-bloc
 
 #: -------------------  /mixed/summerfeeling : 
 msgid  "mixed-summerfeeling-header"
-msgstr "summer feeling!"
+msgstr "Summer Feeling!"
 
 msgid  "mixed-summerfeeling-descr"
 msgstr "{mixed-heyda-descr}"
@@ -585,6 +591,12 @@ msgstr "{mixed-heyda-descr}"
 #: -------------------  /fotografie  : Page Foto
 msgid  "foto-header"
 msgstr "Gallery Foto"
+
+msgid  "foto-autum"
+msgstr "{Table-autum}"
+
+msgid  "foto-summer"
+msgstr "{Table-summer}"
 
 msgid  "foto-intro"
 msgstr "Foto shooting for me is a daily new discovery of my surrounding. For most of the pictures I do not even travel far away. I neither setup special arrangements, but instead just find a motif on the way. I enjoy this approach, because my surrounding seems to be more exiting every day. My joy of discovery is inflicted and it makes me happy, if I found the right angel of view." 
@@ -603,7 +615,7 @@ msgstr "DIN A4 with passepartout,,DIN A3 with passepartout,,DIN A4 on wooden bod
 
 #=== ABOUT ME ==============================================================
 msgid  "about-header"
-msgstr "Über Mich"
+msgstr "About Ne"
 
 msgid  "about-intro"
 msgstr "<p>I have been painting for many years. In last years I have intensified this and starting with figurative art I switched to abstract motives. In this regards I learned a number of techniques, which I integrated into my art. I organized the all the study on my own and trained at several free art academies. I choose my courses in a way, so that I could overcome the next limitation. It's very peasing to see, how skills could be aproved by this. I took courses with teachers as Ines Hildur, Stefanie Etter, Andrea Rozorea, Conny Niehoff, Georg Kleber und Monika Kössl</p><p>The art gives me the freedom to create thinks on my own. The freedom to find my own expression. And the joy to have the results visible in front of me.</p><p>Creative work is challenging and it allows me, to discover new regions, to discover new facets of myself, to live with my  rough edges, to play with different materials and place them purposefully.</p><p>The creaative process makes happy and hurts, gives me the &ldquo;Flow&rdquo; and the desperation of beeing stuck, but also the joy of varieties. No picture comes to live without me having experienced both sides.</p>"

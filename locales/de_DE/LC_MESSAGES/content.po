@@ -102,6 +102,12 @@ msgstr "Imressum"
 msgid  "table-portfolio"
 msgstr "Portfolio"
 
+msgid  "table-autum"
+msgstr "Herbst"
+
+msgid  "table-summer"
+msgstr "Sommer"
+
 #=== MENUE Texte ==============================================================
 #: ZedlitzArt : Menue
 msgid  "menu-painting"
@@ -586,6 +592,12 @@ msgstr "Dieses Bild entstand auf einer Spanplatte, auf die ich erst einmal versc
 #: /fotografie  : Page Foto
 msgid  "foto-header"
 msgstr "Galerie Fotografie"
+
+msgid  "foto-autum"
+msgstr "{Table-autum}"
+
+msgid  "foto-summer"
+msgstr "{Table-summer}"
 
 msgid  "foto-intro"
 msgstr "Fotografieren ist für mich ein tägliches Neuentdecken meiner Umgebung. Für die meisten Bilder fahren ich nicht mal weg. Ich stelle auch nicht gezielt die Aufnahmen sondern finde das Motiv auf dem Weg. Daran habe ich selber sehr viel Freude, denn meine Umgebung erscheint mir jeden Tag anders und spannend. Meine Entdeckerfreude wird angestachelt und es macht mich glücklich, wenn ich einen neuen Blickwinkel gefunden habe."
