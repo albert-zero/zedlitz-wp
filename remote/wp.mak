@@ -50,4 +50,5 @@ dist:
 # Patch translation files
 patch:
 	scp $(wp_path)/locales/content.json  u75606034@home506332748.1and1-data.host:clickandbuilds/ZedlitzArt/wp-content/plugins/zedlitz-wp/locales
+	scp $(wp_path)/js/zedlitz-popup.js   u75606034@home506332748.1and1-data.host:clickandbuilds/ZedlitzArt/wp-content/plugins/zedlitz-wp/js
 

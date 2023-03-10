@@ -53,6 +53,21 @@ function doTranslateNested(aElement, aValue, aTag) {
 }
 
 /**
+ *	Translate a date-time  
+ */
+function doTranslateDatetime(aElement, aValue, aTag) {
+	try {
+		const aTimeElements = aElement.getElementsByTagName(aTag);
+		var xTime    = aTimeElements[0].getAttribute('datetime')
+		var xDate    = new Date(xTime)
+		aTimeElements[0].innerHTML = xDate.toLocaleString(aValue, {day:'numeric', year:'numeric', month:'long'});
+	}
+	catch( error ) {
+		console.log(error);
+	}
+}
+
+/**
  * This function translates nested keys in a string defined in curly brackets:
  * => msgstr "... {key1] ... {key2} ..."
  * If you need brackets as output, you would need to HTML escape &#123; &#125;
@@ -136,6 +151,9 @@ async function doTranslate(bLazy = true) {
 				}
 				else if (aKey.match(/^caption-keys/)) {
 					doTranslateNested(aElementList[i], aVal, "FIGCAPTION");
+				}
+				else if (aKey.match(/^datetime-keys/)) {
+					doTranslateDatetime(aElementList[i], aVal, "TIME");
 				}
 				else {
 					/* we want to keep the style, so toggle down to <mark></mark> if exists */

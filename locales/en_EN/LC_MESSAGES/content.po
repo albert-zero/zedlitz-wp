@@ -108,7 +108,7 @@ msgid  "table-portfolio"
 msgstr "Portfolio"
 
 msgid  "table-autum"
-msgstr "autum"
+msgstr "autumn"
 
 msgid  "table-summer"
 msgstr "summer"
@@ -139,7 +139,7 @@ msgstr "{menu-painting}, {menu-mixed-media}, {menu-printing}, {menu-photo}, {men
 # === HOME ==============================================================
 #: -------------------  ZedlitzArt : Main Page
 msgid  "main-header"
-msgstr "Abstract photography and art"
+msgstr "Abstract Photography and Art"
 
 msgid  "main-intro"
 msgstr "In times when machines taking over human's work, creativity remains as distinctive mark of the human mind."
@@ -206,7 +206,7 @@ msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {T
 
 #: ------------------- /malerei/Geschichte ------------------- 
 msgid  "painting-story-header"
-msgstr "Tell me a Story"
+msgstr "Tell Me a Story"
 
 msgid  "painting-story-11"
 msgstr "journey<br>faraway world<br>here and there<br>tell me a story<br>long"
@@ -300,7 +300,7 @@ msgstr "{Table-technik}, {Table-gelplate-print}, {Table-carrier}, {Table-paper},
 
 #: ------------------- /prints/feathersII -------------------  
 msgid  "print-feathers2-header"
-msgstr "feathers II"
+msgstr "Feathers II"
 
 msgid  "print-feathers2-descr"
 msgstr "Those feathers, partially total smooth and orderly, partially disheveled, I collected on my daily walks, are printed with sunlight ({cyanotypia})"
@@ -412,7 +412,7 @@ msgstr "Feathers I"
 # === MIXED-MEDIA ==============================================================
 #: -------------------  /mixed media : Page Mixed Media
 msgid  "mixed-media-header"
-msgstr "Gallery Mixed Media"
+msgstr "Gallery Mixed-Media"
 
 msgid  "mixed-media-intro"
 msgstr "In section Mixed-Media the central point is the playfull combination of different sort of materials as paper, bulk material and drawing lines. So all things in my workshop will come into use. There is pasting and scribbling, pouring and scratching free again. The deep dive into the &ldquo;creative Flow&rdquo; is a work with much ease."
@@ -593,7 +593,7 @@ msgstr "{mixed-heyda-descr}"
 == PHOTO ==============================================================
 #: -------------------  /fotografie  : Page Foto
 msgid  "foto-header"
-msgstr "Gallery Foto"
+msgstr "Gallery Photo"
 
 msgid  "foto-autum"
 msgstr "{Table-autum}"
@@ -602,23 +602,23 @@ msgid  "foto-summer"
 msgstr "{Table-summer}"
 
 msgid  "foto-intro"
-msgstr "Foto shooting for me is a daily new discovery of my surrounding. For most of the pictures I do not even travel far away. I neither setup special arrangements, but instead just find a motif on the way. I enjoy this approach, because my surrounding seems to be more exiting every day. My joy of discovery is inflicted and it makes me happy, if I found the right angel of view." 
+msgstr "Photo shooting for me is a daily new discovery of my surrounding. For most of the pictures I do not even travel far away. I neither setup special arrangements, but instead just find a motif on the way. I enjoy this approach, because my surrounding seems to be more exiting every day. My joy of discovery is inflicted and it makes me happy, if I found the right angel of view." 
 
 msgid  "foto-price-tag"
-msgstr "Prices of the fotos"
+msgstr "Prices of the photos"
 
 msgid  "foto-price-tag-ref"
 msgstr "{foto-price-tag} could be found in the table below."
 
 msgid  "foto-product-descr"
-msgstr "All fotos will be printed on Hahnemühle paper, which has a fine structure. This way all colors come to their own and the photo is given a depth effect, which is reinforced by the surface. Alle Fotografien werden auf feinem Hahnemühle Papier mit einer sehr leichten Struktur gedruckt. (grammage  308g/m2, Degree of gloss matt)"
+msgstr "All photos will be printed on Hahnemühle paper, which has a fine structure. This way all colors come to their own and the photo is given a depth effect, which is reinforced by the surface. Alle Fotografien werden auf feinem Hahnemühle Papier mit einer sehr leichten Struktur gedruckt. (grammage  308g/m2, Degree of gloss matt)"
 
 msgid  "table-keys-foto-prices"
 msgstr "DIN A4 with passepartout,,DIN A3 with passepartout,,DIN A4 on wooden body covered with resin,,DIN A3 on wooden body covered with resin,,Other formats upon request"
 
 #=== ABOUT ME ==============================================================
 msgid  "about-header"
-msgstr "About Ne"
+msgstr "About Me"
 
 msgid  "about-intro"
 msgstr "<p>I have been painting for many years. In last years I have intensified this and starting with figurative art I switched to abstract motives. In this regards I learned a number of techniques, which I integrated into my art. I organized the all the study on my own and trained at several free art academies. I choose my courses in a way, so that I could overcome the next limitation. It's very peasing to see, how skills could be aproved by this. I took courses with teachers as Ines Hildur, Stefanie Etter, Andrea Rozorea, Conny Niehoff, Georg Kleber und Monika Kössl</p>
@@ -647,3 +647,14 @@ msgstr "I expressly emphasize that I have no influence on the design and content
 
 
 #=== NEWS ==============================================================
+msgid  "news-post1-header"
+msgstr "New Frames, New Luck !"
+
+msgid  "datetime-keys-news-post1"
+msgstr "en-EN"
+
+msgid  "news-post1-txt"
+msgstr "<p>Today I put together a few frames again and I'm already looking forward to the future pictures that will be created on them. The first frame is 180x180cm and is the largest picture I have started so far. The frame with its double cross braces and the sheer size already posed a challenge for me during assembly and stretching the already somewhat painted canvas on it, even more so. Now the covered frame is on the wall and I'm thinking about what will become of it.</p>
+<p>The second frame is 150x100cm. For me, this is a convenient format that also fits on many walls. Here I already know what will become of it: I will paint from a song for the first time. The first colors and shapes are already assigned in the head, soon it will start!</p>
+<p>The third frame is 180x60cm, so extremely long. It is the same size as the tell me a story image. Here I am still thinking about painting it in portrait format, because that would also be a new challenge.</p>
+<p>I'll keep you posted on what's going to happen!</p>"

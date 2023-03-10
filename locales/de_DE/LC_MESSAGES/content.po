@@ -131,7 +131,7 @@ msgstr "News"
 #=== MENUE Keys ==============================================================
 # menu-keys need no translation
 msgid  "menu-keys"
-msgstr "menu-painting, menu-mixed-media, menu-printing, menu-photo, menu-about, menu-news"
+msgstr "{menu-painting}, {menu-mixed-media}, {menu-printing}, {menu-photo}, {menu-about}, {menu-news}"
 
 
 #=== Main Page ==============================================================
@@ -649,5 +649,15 @@ msgstr "Disclaimer"
 msgid  "about-disclaimer-txt"
 msgstr "Ich betone ausdrücklich, dass ich keinerlei Einfluss auf die Gestaltung und Inhalte der verlinkten Webseiten habe. Daher distanziere ich mich ausdrücklich von allen Inhalten aller gelinkten Webseiten auf meiner gesamten Webseite inkl. aller Unterseiten und deren Unterlinks oder anderen Weiterleitungsmechanismen. Diese Erklärung gilt für alle, auf meiner Homepage ausgebrachten Links und für alle Inhalte der Seiten, zu denen Links, Banner oder sonstige Verknüpfungen führen. "
 
+#=== NEWS ==============================================================
+msgid  "news-post1-header"
+msgstr "Neue Rahmen, neues Glück !"
 
+msgid  "datetime-keys-news-post1"
+msgstr "de-DE"
 
+msgid  "news-post1-txt"
+msgstr "<p>Heute habe ich wieder ein paar Rahmen zusammengebaut und mich schon auf die zukünftigen Bilder gefreut, die darauf entstehen werden. Der erste Rahmen ist 180x180cm groß und das bisher größte Bild, das ich angefangen habe. Der Rahmen mit seinen doppelten Querstreben und der schieren Größe hat mich schon beim Zusammenbau vor eine Herausforderung gestellt und die schon etwas bemalte Leinwand darauf zu spannen, noch viel mehr. Jetzt steht der bespannte Rahmen an der Wand und ich denke darüber nach, was daraus wird.</p>
+<p>Der zweite Rahmen ist 150x100cm. Das ist für mich ein bequemes und auch ein auf viele Wände passendes Format. Hier weiß ich schon, was daraus werden soll: ich werde zum ersten Mal nach einem Song malen. Im Kopf sind schon die ersten Farben und Formen zugeordnet, bald geht es los!</p>
+<p>Der dritte Rahmen ist 180x60cm, also extrem lang. Es ist die gleiche Größe wie das Bild „erzähl mir eine Geschichte“. Hier denke ich noch darüber nach, es im Hochformat zu malen, denn auch das wäre eine neue Herausforderung.</p>
+<p>Ich halte euch auf dem Laufenden, was daraus wird!</p>"
