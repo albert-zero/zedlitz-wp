@@ -653,7 +653,7 @@ msgstr "Ich betone ausdrücklich, dass ich keinerlei Einfluss auf die Gestaltung
 msgid  "news-post1-header"
 msgstr "Neue Rahmen, neues Glück !"
 
-msgid  "datetime-keys-news-post1"
+msgid  "datetime-keys"
 msgstr "de-DE"
 
 msgid  "news-post1-txt"

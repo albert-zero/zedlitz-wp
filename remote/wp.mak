@@ -30,7 +30,7 @@ touch:
 $(wp_path)/locales/content.json: \
 	$(wp_path)/locales/de_DE/LC_MESSAGES/content.po \
 	$(wp_path)/locales/en_EN/LC_MESSAGES/content.po
-	python3 $(wp_path)/remote/cmpjsn.py $(wp_path)/locales
+	python3 $(wp_path)/remote/cmpjsn.py -d $(wp_path)/locales
 
 # Set a consistent version info to all files in project
 version:
@@ -49,6 +49,6 @@ dist:
 
 # Patch translation files
 patch:
-	scp $(wp_path)/locales/content.json  u75606034@home506332748.1and1-data.host:clickandbuilds/ZedlitzArt/wp-content/plugins/zedlitz-wp/locales
-	scp $(wp_path)/js/zedlitz-popup.js   u75606034@home506332748.1and1-data.host:clickandbuilds/ZedlitzArt/wp-content/plugins/zedlitz-wp/js
+	scp $(wp_path)/locales/content.json  u75606034@home506332748.1and1-data.host:clickandbuilds/ZedlitzArt/wp-content/plugins/zedlitz-wp/locales	
+#	scp $(wp_path)/js/zedlitz-popup.js   u75606034@home506332748.1and1-data.host:clickandbuilds/ZedlitzArt/wp-content/plugins/zedlitz-wp/js
 

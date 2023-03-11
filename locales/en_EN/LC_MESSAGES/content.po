@@ -650,7 +650,7 @@ msgstr "I expressly emphasize that I have no influence on the design and content
 msgid  "news-post1-header"
 msgstr "New Frames, New Luck !"
 
-msgid  "datetime-keys-news-post1"
+msgid  "datetime-keys"
 msgstr "en-EN"
 
 msgid  "news-post1-txt"
