@@ -8,6 +8,12 @@ import re
 import json
 import argparse
 from   pathlib import Path
+from   enum    import Enum
+
+class Languages(Enum):
+    """ Enumeration of supported languages """
+    de = 'de_DE'
+    en = 'en_EN'
 
 gRootPath = Path().home().joinpath('Projects', 'plugin', 'zedlitz-wp', 'locales')
 
@@ -38,33 +44,39 @@ if __name__ == "__main__":
         prog        = 'cmpjson.py',
         description = 'Generate a *.json translation file from *.po (portable objects) files')
 
-    parser.add_argument( "-d", "--directory", dest='directory', help="specify the 'locales' directory (default ~/Projects/plugin/zedlitz-wp/locales)")
+    parser.add_argument( "-d", "--directory", dest='directory',    help="specify the 'locales' directory (default ~/Projects/plugin/zedlitz-wp/locales)")
+    parser.add_argument( "-t", "--test",      action='store_true', help="test: some output and exit")
     arguments = parser.parse_args()
     if arguments.directory:
         gRootPath = Path( arguments.directory )  
         print(gRootPath) 
+
+    if arguments.test:
+        for i in Languages:
+            print(i.value)
+        exit()
     
     # Prepare and run the compiler for each supported language    
     xDict     = dict()
 
     # Process the input
-    for xLoc in ["de_DE", "en_EN"]:
-        xFile       = getFileName(xLoc)
-        xDict[xLoc] = doSplitFile(xFile) 
+    for xLocale in Languages:
+        xFile                  = getFileName( xLocale.value  )
+        xDict[ xLocale.value ] = doSplitFile( xFile ) 
     
     # Dump the result
     xFile   = getFileName()
     
     with xFile.open( mode="w+", encoding="utf-8" ) as f:
-        json.dump(xDict, f)
+        json.dump(xDict, f, indent=2)
         #xPrettyPrint = pprint.PrettyPrinter(indent=4, stream=f, width=200)
         #xPrettyPrint.pprint(xDict)
     
     # Some success message and check, if all keys are consistent in all languages:    
     print(f"created json: {xFile}")    
 
-    xDe   = xDict["de_DE"]
-    xEn   = xDict["en_EN"]
+    xDe   = xDict[Languages.de.value]
+    xEn   = xDict[Languages.en.value]
     
     xDiff = [ x for x in xDe if x not in xEn ]
     print( f"Keys in D and not in E \n{xDiff}" )
