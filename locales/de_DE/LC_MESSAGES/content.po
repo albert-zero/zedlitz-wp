@@ -177,6 +177,64 @@ leicht"
 msgid  "table-keys-dandelion"
 msgstr "{table-carrier}, {table-canvas}, {table-size}"
 
+# --------------------------- /malerei : Bananas
+msgid  "painting-bananas-header"
+msgstr "Bananen-Blätter"
+
+msgid  "painting-bananas-11"
+msgstr "banane<br><br>
+saftiges gelb<br>
+frei und süß<br>
+große staude beschirmt schatten<br>
+blätter"
+
+msgid  "table-keys-bananas"
+msgstr "{table-carrier}, {table-canvas}, {table-size}"
+
+# --------------------------- /malerei : Green Moon
+msgid  "painting-green-moon-header"
+msgstr "Grüner Mond"
+
+msgid  "painting-green-moon-11"
+msgstr "grüner<br>
+lichter mond<br>
+fahles licht leuchtet<br>
+flechten umranken schwarze äste<br>
+nebel"
+
+msgid  "table-keys-green-moon"
+msgstr "{table-carrier}, {table-canvas}, {table-size}"
+
+# --------------------------- /malerei : Wind-Wald I
+msgid  "painting-wind-wood"
+msgstr "Wind-Wald"
+
+msgid  "painting-wind-wood1-header"
+msgstr "{painting-wind-wood} I"
+
+msgid  "painting-wind-wood1-11"
+msgstr "wald<br>
+reife kapsel<br>
+sät neue sprossen<br>
+wind trägt sie davon<br>
+fern"
+
+msgid  "table-keys-wind-wood1"
+msgstr "{table-technik}, {table-acryl}, {table-carrier}, {table-canvas}, {table-size}"
+
+# --------------------------- /malerei : Wind-Wald II
+msgid  "painting-wind-wood2-header"
+msgstr "{painting-wind-wood} II"
+
+msgid  "wald<br>
+letztes blatt<br>
+erinnert an sommer<br>
+wind schüttelt den baum<br>
+herbst"
+
+msgid  "table-keys-wind-wood2"
+msgstr "{table-technik}, {table-acryl}, {table-carrier}, {table-canvas}, {table-size}"
+
 # --------------------------- /malerei : Sprung im Raum
 msgid  "painting-jump-header"
 msgstr "Sprung im Raum"

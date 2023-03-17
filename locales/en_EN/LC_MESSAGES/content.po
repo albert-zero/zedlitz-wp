@@ -165,6 +165,78 @@ msgstr "Gallery Painting"
 msgid  "painting-intro"
 msgstr "In my paintings, I don't want to show reality, but express my feelings. There's not *too much* or *too less* in an art work, but it's the emotional reaction, what matters. These can be achieved only, if the work refelcts the authenticity of the artist. Sometimes you'll find realistic elements in my paintings, but nver as a copy of realtiy, but an interpretation or translation of my impressions."
 
+# --------------------------- /malerei : Pusteblume
+msgid  "painting-dandelion-header"
+msgstr "Dandelion"
+
+msgid  "painting-dandelion-11"
+msgstr "dandelion<br>
+fluffy ball<br>
+kids kiss mouth<br>
+seeds fly into sky<br>
+effortlessly"
+
+msgid  "table-keys-dandelion"
+msgstr "{table-carrier}, {table-canvas}, {table-size}"
+
+# --------------------------- /malerei : Bananas
+msgid  "painting-bananas-header"
+msgstr "Banana Leaf"
+
+msgid  "painting-bananas-11"
+msgstr "banana<br><br>
+juicy yellow<br>
+free and sweet<br>
+large perennialS shielded shadow<br>
+leafs"
+
+msgid  "table-keys-bananas"
+msgstr "{table-carrier}, {table-canvas}, {table-size}"
+
+# --------------------------- /malerei : Green Moon
+msgid  "painting-green-moon-header"
+msgstr "Green Moon"
+
+msgid  "painting-green-moon-11"
+msgstr "green<br>
+bright moon<br>
+pale light shining<br>
+lichen entwine black branches<br>
+mist"
+
+msgid  "table-keys-green-moon"
+msgstr "{table-carrier}, {table-canvas}, {table-size}"
+
+# --------------------------- /malerei : Wind-Wald I
+msgid  "painting-wind-wood"
+msgstr "Wind-Wood"
+
+msgid  "painting-wind-wood1-header"
+msgstr "{painting-wind-wood} I"
+
+msgid  "painting-wind-wood1-11"
+msgstr "wood<br>
+mature capsule<br>
+sows new sprouts<br>
+wind carry them away<br>
+faraway"
+
+msgid  "table-keys-wind-wood1"
+msgstr "{table-technik}, {table-acryl}, {table-carrier}, {table-canvas}, {table-size}"
+
+# --------------------------- /malerei : Wind-Wald II
+msgid  "painting-wind-wood2-header"
+msgstr "{painting-wind-wood} II"
+
+msgid  "wood<br>
+lasst leaf<br>
+reminds of summer<br>
+wind shakes the tree<br>
+autumn"
+
+msgid  "table-keys-wind-wood2"
+msgstr "{table-technik}, {table-acryl}, {table-carrier}, {table-canvas}, {table-size}"
+
 #: ------------------- /malerei/Sprung im Raum ----------------- 
 msgid  "painting-jump-header"
 msgstr "Crack in Space"
