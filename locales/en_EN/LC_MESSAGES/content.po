@@ -177,7 +177,7 @@ seeds fly into sky<br>
 effortlessly"
 
 msgid  "table-keys-dandelion"
-msgstr "{table-carrier}, {table-canvas}, {table-size}"
+msgstr "{Table-carrier}, {Table-canvas}, {Table-size}"
 
 # --------------------------- /malerei : Bananas
 msgid  "painting-bananas-header"
@@ -191,7 +191,7 @@ large perennialS shielded shadow<br>
 leafs"
 
 msgid  "table-keys-bananas"
-msgstr "{table-carrier}, {table-canvas}, {table-size}"
+msgstr "{Table-carrier}, {Table-canvas}, {Table-size}"
 
 # --------------------------- /malerei : Green Moon
 msgid  "painting-green-moon-header"
@@ -205,7 +205,7 @@ lichen entwine black branches<br>
 mist"
 
 msgid  "table-keys-green-moon"
-msgstr "{table-carrier}, {table-canvas}, {table-size}"
+msgstr "{Table-carrier}, {Table-canvas}, {Table-size}"
 
 # --------------------------- /malerei : Wind-Wald I
 msgid  "painting-wind-wood"
@@ -222,7 +222,7 @@ wind carry them away<br>
 faraway"
 
 msgid  "table-keys-wind-wood1"
-msgstr "{table-technik}, {table-acryl}, {table-carrier}, {table-canvas}, {table-size}"
+msgstr "{Table-technik}, {Table-acryl}, {Table-carrier}, {Table-canvas}, {Table-size}"
 
 # --------------------------- /malerei : Wind-Wald II
 msgid  "painting-wind-wood2-header"
@@ -235,7 +235,7 @@ wind shakes the tree<br>
 autumn"
 
 msgid  "table-keys-wind-wood2"
-msgstr "{table-technik}, {table-acryl}, {table-carrier}, {table-canvas}, {table-size}"
+msgstr "{Table-technik}, {Table-acryl}, {Table-carrier}, {Table-canvas}, {Table-size}"
 
 #: ------------------- /malerei/Sprung im Raum ----------------- 
 msgid  "painting-jump-header"
