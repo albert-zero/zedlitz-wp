@@ -42,6 +42,9 @@ msgstr "unavailable"
 msgid  "table-sold"
 msgstr "sold"
 
+msgid  "table-reserved"
+msgstr "reserved"
+
 msgid  "table-canvas"
 msgstr "Canvas"
 
@@ -163,7 +166,17 @@ msgid  "painting-header"
 msgstr "Gallery Painting"
 
 msgid  "painting-intro"
-msgstr "In my paintings, I don't want to show reality, but express my feelings. There's not *too much* or *too less* in an art work, but it's the emotional reaction, what matters. These can be achieved only, if the work refelcts the authenticity of the artist. Sometimes you'll find realistic elements in my paintings, but nver as a copy of realtiy, but an interpretation or translation of my impressions."
+msgstr "
+In my painting, I find the freedom to express myself and go beyond societal norms and constraints. 
+Each brushstroke unites contrasts like vitality and stillness, spontaneity and planning, strength and sensitivity. 
+The creative process is a constant balancing act between intuition and learned techniques. 
+It is within this space between planning and chance that my paintings come to life. 
+My works aim to be not only visually appealing but also to evoke an emotion in the viewer.<br>
+My latest works are more atmospheric and focus on mood rather than specific forms. 
+This development reflects my need to continually reinvent myself and avoid being confined to a particular style. 
+Each painting is a heartfelt endeavor, built up in many layers of paint, chalk, and pours, interwoven with personal 
+impressions and intuitive moments, inspired by nature. As an artist, I strive to constantly push my boundaries and follow 
+the artistic path without knowing where it will lead."
 
 # --------------------------- /malerei : Pusteblume
 msgid  "painting-dandelion-header"
@@ -205,7 +218,7 @@ lichen entwine black branches<br>
 mist"
 
 msgid  "table-keys-green-moon"
-msgstr "{Table-carrier}, {Table-canvas}, {Table-size}"
+msgstr ", {Table-sold}"
 
 # --------------------------- /malerei : Wind-Wald I
 msgid  "painting-wind-wood"
@@ -235,7 +248,7 @@ wind shakes the tree<br>
 autumn"
 
 msgid  "table-keys-wind-wood2"
-msgstr "{Table-technik}, {Table-acryl}, {Table-carrier}, {Table-canvas}, {Table-size}"
+msgstr "{Table-technik}, {Table-acryl}, {Table-carrier}, {Table-canvas}, {Table-size},,, {Table-reserved}"
 
 #: ------------------- /malerei/Sprung im Raum ----------------- 
 msgid  "painting-jump-header"
@@ -287,7 +300,7 @@ msgid  "painting-story-descr"
 msgstr "This artwork is in extreme format, very long and not very high. This makes it difficult to keep it together from left to right. The view starts on the left side, captured by the yellow bubble, and then discovers step by step the rest of the picture. This reminds me on how a long story gets told."
 
 msgid  "table-keys-story"
-msgstr "{Table-carrier}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {Table-canvas}, {Table-size},,, {Table-sold}"
+msgstr ",{Table-sold}"
 
 #: ------------------- /malerei/Hain  ------------------- 
 msgid  "painting-hain-header"
@@ -318,16 +331,16 @@ msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {T
 
 #: ------------------- /malerei/summer  ------------------- 
 msgid  "painting-summer-header"
-msgstr "{Table-summer}"
+msgstr "Summer"
 
 msgid  "painting-summer-11"
 msgstr ""
 
 msgid  "painting-summer-descr"
-msgstr "Many layers are below the yellow colors. All layers, you also would find in nature under a yellow field in summer: black for rocks, brown for soil, green for plant. Together, the form the depth you can shine through the yellow areas."
+msgstr ""
 
 msgid  "table-keys-summer"
-msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {Table-canvas}, {Table-size}"
+msgstr ",{Table-sold}"
 
 #: ------------------- /malerei/kolibri ------------------- 
 msgid  "painting-kolibri-header"
@@ -693,10 +706,24 @@ msgid  "about-header"
 msgstr "About Me"
 
 msgid  "about-intro"
-msgstr "<p>I have been painting for many years. In last years I have intensified this and starting with figurative art I switched to abstract motives. In this regards I learned a number of techniques, which I integrated into my art. I organized the all the study on my own and trained at several free art academies. I choose my courses in a way, so that I could overcome the next limitation. It's very peasing to see, how skills could be aproved by this. I took courses with teachers as Ines Hildur, Stefanie Etter, Andrea Rozorea, Conny Niehoff, Georg Kleber und Monika Kössl</p>
-<p>The art gives me the freedom to create thinks on my own. The freedom to find my own expression. And the joy to have the results visible in front of me.</p>
-<p>Creative work is challenging and it allows me, to discover new regions, to discover new facets of myself, to live with my  rough edges, to play with different materials and place them purposefully.</p>
-<p>The creaative process makes happy and hurts, gives me the &ldquo;Flow&rdquo; and the desperation of beeing stuck, but also the joy of varieties. No picture comes to live without me having experienced both sides.</p>"
+msgstr "
+<p>I am Bettina Zedlitz, born in 1967 in Berlin, and I live in an old mill in Wiesloch-Baiertal. As a contemporary painter, 
+I am known for my colorful and multilayered acrylic works that focus on themes of nature. My art captures not only the obvious 
+beauty of nature but also the hidden aesthetics of decayed leaves and broken stems, through which I express the emotions and 
+contrasts of life.</p>
+ 
+<p>I prefer working on large formats, building them up in many layers with both painterly and graphic elements, as well as pours. 
+For strong elements, I use materials like bitumen and sand, while silk paper and plastic bags create light and translucent areas. 
+Coffee adds an additional depth to my works, as it is often incorporated. My tools range from hardware store devices and kitchen 
+utensils to natural finds; brushes and spatulas of all sizes, as well as crayons and pencils, are also used to incorporate transparent 
+colors and graphic details.</p>
+ 
+<p>Recurring motifs in my work include flowers, trees, and other nature themes. All my paintings are dynamic and feature visual 
+elements such as small, incompletely outlined areas.</p>
+ 
+<p>My art stems from an inner need to make visual statements that emotionally touch viewers and evoke positive feelings. 
+It addresses the contrasts of life, such as becoming and passing, holding on and letting go, and also incorporates the important 
+theme of sustainability. Nature is at the heart of my work.</p>"
 
 msgid  "about-impressum-hdr"
 msgstr "Impressum: Resposible for the content"

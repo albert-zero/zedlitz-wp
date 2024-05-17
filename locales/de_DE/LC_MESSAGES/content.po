@@ -39,6 +39,9 @@ msgstr "unverkäuflich"
 msgid  "table-sold"
 msgstr "verkauft"
 
+msgid  "table-reservered"
+msgstr "reserviert"
+
 msgid  "table-canvas"
 msgstr "Leinwand"
 
@@ -161,7 +164,17 @@ msgid  "painting-header"
 msgstr "Galerie Malerei"
 
 msgid  "painting-intro"
-msgstr "In meinen malerischen Werken möchte ich keine realen Dinge abbilden, sondern Gefühle zum Ausdruck bringen. In der Malerei gibt es kein „zu viel“ oder „zu wenig“, sondern es ist die emotionale Reaktion, die das Bild ausmacht. Diese kann nur dann gelingen, wenn das Werk auch die Authentizität des Künstlers widerspiegelt. Manchmal sind reale Dinge in einem Bild erkennbar, aber auch dann sollen sie nicht „abbilden“, sondern innere Eindrücke übersetzen."
+msgstr "
+In meiner Malerei finde ich eine Freiheit, mich auszudrücken und über die gesellschaftlichen Normen und Zwänge hinaus zu gehen. 
+Jeder Pinselstrich vereint Gegensätze wie Lebendigkeit und Stille, Spontaneität und Planung, Kraft und Sensibilität. 
+Auch der kreative Prozess ist ein ständiges Ausbalancieren zwischen Intuition und erlernten Techniken. 
+In diesem Raum zwischen Planung und Zufall entstehen meine Bilder. Die Werke sollen nicht nur visuell ansprechend sein, 
+sondern vor allem eine Emotion im Betrachter hervorrufen.<br>
+Meine neuesten Arbeiten sind atmosphärischer und konzentrieren sich eher auf eine Stimmung als auf eine konkrete Form. 
+Diese Entwicklung zeigt mein Bedürfnis, mich ständig neu zu erfinden und nicht in einer bestimmten Stilrichtung festzuhalten.
+Jedes Bild ist eine Herzensangelegenheit, das sich in vielen Schichten von Farben, Kreiden und Schüttungen aufbaut, die sich 
+mit persönlichen Eindrücken und intuitiven Momenten, inspiriert von Natur, vermischen. Als Künstlerin strebe ich danach, 
+meine Grenzen immer weiter zu verschieben und den künstlerischen Weg zu gehen, ohne zu wissen, wohin er führt."
 
 # --------------------------- /malerei : Pusteblume
 msgid  "painting-dandelion-header"
@@ -203,7 +216,7 @@ flechten umranken schwarze äste<br>
 nebel"
 
 msgid  "table-keys-green-moon"
-msgstr "{table-carrier}, {table-canvas}, {table-size}"
+msgstr "{table-carrier}, {table-canvas}, {table-size},,,{table-sold}"
 
 # --------------------------- /malerei : Wind-Wald I
 msgid  "painting-wind-wood"
@@ -690,11 +703,23 @@ msgstr "Über Mich"
 
 msgid  "about-intro" 
 msgstr "
-<p>Ich beschäftige mich schon seit vielen Jahren mit der Malerei. In den letzten Jahren habe ich das intensiviert und bin von konkreten Motiven zu abstrakter Malerei übergegangen. Dabei habe ich viele Techniken dazu gelernt und in meine Kunst integriert. Meine Ausbildung habe ich selber gestaltet und mich an mehreren freien Kunstakademien weiter gebildet. Die Kurse wähle ich so aus, dass ich immer da, wo ich meine Grenzen spüre, eine Ausbildungseinheit buche. Es ist sehr beglückend zu sehen, wie dadurch das Können erweitert werden kann. Ich habe von Dozenten wie Ines Hildur, Stefanie Etter, Andrea Rozorea, Conny Niehoff, Georg Kleber und Monika Kössl gelernt.</p>
-<p>Die Kunst gibt mir Freiheit. Die Freiheit, selbst gestalten zu können. Die Freiheit, einen Ausdruck zu finden. Und die Freude daran, die Ergebnisse sichbar vor sich zu sehen.</p>
-<p>Das kreative Arbeiten fordert mich heraus und es erlaubt mir, ständig neue Räume zu erforschen, neue Facetten an mir selber zu entdecken, mit meinen Ecken und Kanten zu leben zu lernen, mit den Materialien zu spielen und sie gezielt einzusetzen.</p>
-<p>Der kreative Prozess beglückt und schmerzt, gibt mir den &bdquo;Flow&&rdquo; und die Verzweiflung des Feststeckens, schön abwechselnd, und kein Bild entsteht ohne beide Seiten durchlebt zu haben.</p>"
+<p>Ich bin Bettina Zedlitz, geboren 1967 in Berlin und lebe in einer alten Mühle in Wiesloch-Baiertal. 
+Als zeitgenössische Malerin bin ich bekannt für meine farbenfrohen und vielschichtigen Acrylwerke, die sich thematisch der Natur widmen. 
+Meine Kunst zeigt nicht nur die offensichtliche Schönheit der Natur, sondern auch die verborgene Ästhetik von zerfressenen Blättern und 
+abgeknickten Halmen, durch die ich die Emotionen und Gegensätze des Lebens ausdrücke.</p>
+ 
+<p>Ich arbeite bevorzugt in großen Formaten, die ich in vielen Schichten aufbaue und dabei malerische und zeichnerische Elemente 
+sowie Schüttungen einsetze. Für starke Elemente nutze ich Materialien wie Bitumen und Sand, während Seidenpapier und Plastiktüten 
+leichte und durchscheinende Bereiche erzeugen. Kaffee gibt meinen Werken eine zusätzliche Tiefe, da er immer wieder durchdringt. 
+Meine Malwerkzeuge reichen von Baumarktgeräten und Küchenutensilien bis hin zu natürlichen Fundstücken; Pinsel und Spachtel
+in allen Größen sowie Kreiden und Stifte kommen ebenfalls zum Einsatz, um lasierende Farben und zeichnerische Anteile einzubringen</p>
+ 
+<p>Wiederkehrende Motive meiner Arbeiten sind Blüten, Bäume und andere Naturthemen. Alle meine Bilder zeichnen sich durch Dynamik 
+aus und enthalten visuelle Elemente wie kleine, nicht vollständig umrandete Bereiche.</p> 
 
+</p>Meine Kunst entsteht aus einem inneren Bedürfnis, bildnerische Aussagen zu machen, um die Betrachter emotional zu berühren 
+und positive Gefühle zu wecken. Sie thematisiert die Kontraste des Lebens wie Werden und Vergehen sowie Festhalten und Loslassen 
+und greift auch das wichtige Thema Nachhaltigkeit auf. Die Natur steht im Zentrum meiner Arbeiten.</p>"
 
 msgid  "about-impressum-hdr"
 msgstr "Impressum: Verantwortlich für den Inhalt"
