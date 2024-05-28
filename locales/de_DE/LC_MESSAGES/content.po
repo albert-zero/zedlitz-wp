@@ -37,9 +37,9 @@ msgid  "table-not-available"
 msgstr "unverkäuflich"
 
 msgid  "table-sold"
-msgstr "verkauft"
+msgstr "<font color='red'>verkauft</font>"
 
-msgid  "table-reservered"
+msgid  "table-reserved"
 msgstr "reserviert"
 
 msgid  "table-canvas"
@@ -176,6 +176,30 @@ Jedes Bild ist eine Herzensangelegenheit, das sich in vielen Schichten von Farbe
 mit persönlichen Eindrücken und intuitiven Momenten, inspiriert von Natur, vermischen. Als Künstlerin strebe ich danach, 
 meine Grenzen immer weiter zu verschieben und den künstlerischen Weg zu gehen, ohne zu wissen, wohin er führt."
 
+# --------------------------- /malerei : FloraMayI
+msgid  "painting-floramayI-header"
+msgstr "Flora:May I"
+
+msgid  "painting-floramayI-11"
+msgstr "dickicht<br>blaues gezweig<br>kräucht und fleucht<br>schwere reife im abendlicht<br>ruhe"
+
+msgid  "table-keys-floramayI"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
+# --------------------------- /malerei : FloraMayII
+msgid  "painting-floramayII-header"
+msgstr "Flora:May II"
+
+msgid  "painting-floramayII-11"
+msgstr "baum<br>
+blinkt blaugrün<br>
+spannt sich weit<br>
+lass uns schatten tanken<br>
+maibaum"
+
+msgid  "table-keys-floramayII"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
 # --------------------------- /malerei : Pusteblume
 msgid  "painting-dandelion-header"
 msgstr "Pusteblume"
@@ -195,7 +219,7 @@ msgid  "painting-bananas-header"
 msgstr "Bananen-Blätter"
 
 msgid  "painting-bananas-11"
-msgstr "banane<br><br>
+msgstr "banane<br>
 saftiges gelb<br>
 frei und süß<br>
 große staude beschirmt schatten<br>
@@ -216,7 +240,7 @@ flechten umranken schwarze äste<br>
 nebel"
 
 msgid  "table-keys-green-moon"
-msgstr "{table-carrier}, {table-canvas}, {table-size},,,{table-sold}"
+msgstr "{table-carrier}, {table-canvas}, {table-size},,{table-sold}"
 
 # --------------------------- /malerei : Wind-Wald I
 msgid  "painting-wind-wood"
@@ -233,7 +257,7 @@ wind trägt sie davon<br>
 fern"
 
 msgid  "table-keys-wind-wood1"
-msgstr "{table-technik}, {table-acryl}, {table-carrier}, {table-canvas}, {table-size}"
+msgstr "{table-carrier}, {table-canvas}, {table-size}"
 
 # --------------------------- /malerei : Wind-Wald II
 msgid  "painting-wind-wood2-header"
@@ -246,7 +270,7 @@ wind schüttelt den baum<br>
 herbst"
 
 msgid  "table-keys-wind-wood2"
-msgstr "{table-technik}, {table-acryl}, {table-carrier}, {table-canvas}, {table-size}"
+msgstr "{Table-carrier}, {Table-canvas}, {Table-size},, {Table-sold}"
 
 # --------------------------- /malerei : Sprung im Raum
 msgid  "painting-jump-header"
@@ -298,7 +322,7 @@ msgid  "painting-story-descr"
 msgstr "Diese Bild ist in einem extremen Format, sehr breit und nicht sehr hoch. Dadurch ergibt sich die Schwierigkeit, es von link bis rechts zusammen zu halten. Der Blick startet links und entdeckt dann Stück für Stück den Rest des Bildes. Es ist wie eine lange Geschichte."
 
 msgid  "table-keys-story"
-msgstr "{table-carrier}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size},,, {table-sold}"
+msgstr ",,{table-sold}"
 
 # --------------------------- /malerei/Hain
 msgid  "painting-hain-header"
@@ -337,7 +361,7 @@ msgid  "painting-summer-11"
 msgstr ""
 
 msgid  "table-keys-summer"
-msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+msgstr ",,{table-sold}"
 
 # --------------------------- /malerei/kolibri
 msgid  "painting-kolibri-header"

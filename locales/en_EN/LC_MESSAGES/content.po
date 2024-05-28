@@ -1,3 +1,4 @@
+
 # 
 # Translation of HTML content
 # Copyright (C) 2022 ZedlitzArt
@@ -25,6 +26,7 @@ msgstr "1.2.5"
 msgid  "table-technik"
 msgstr "technique"
 
+
 msgid  "table-gelplatte"
 msgstr "gelly plate print"
 
@@ -40,7 +42,7 @@ msgid  "table-not-available"
 msgstr "unavailable"
 
 msgid  "table-sold"
-msgstr "sold"
+msgstr "<font color='red'>sold</font>"
 
 msgid  "table-reserved"
 msgstr "reserved"
@@ -178,6 +180,30 @@ Each painting is a heartfelt endeavor, built up in many layers of paint, chalk, 
 impressions and intuitive moments, inspired by nature. As an artist, I strive to constantly push my boundaries and follow 
 the artistic path without knowing where it will lead."
 
+# --------------------------- /malerei : FloraMayI
+msgid  "painting-floramayI-header"
+msgstr "Flora:May I"
+
+msgid  "painting-floramayI-11"
+msgstr "boscage<br>blue foilage<br>creeping and flying<br>full ripeness in sunset<br>silence"
+
+msgid  "table-keys-floramayI"
+msgstr "{Table-carrier}, {Table-canvas}, {Table-size}"
+
+# --------------------------- /malerei : FloraMayII
+msgid  "painting-floramayII-header"
+msgstr "Flora:May II"
+
+msgid  "painting-floramayII-11"
+msgstr "tree<br>
+blinks bluegreen<br>
+spans itself wide<br>
+let us refuel shadows<br>
+may-tree"
+
+msgid  "table-keys-floramayII"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
 # --------------------------- /malerei : Pusteblume
 msgid  "painting-dandelion-header"
 msgstr "Dandelion"
@@ -197,7 +223,7 @@ msgid  "painting-bananas-header"
 msgstr "Banana Leaf"
 
 msgid  "painting-bananas-11"
-msgstr "banana<br><br>
+msgstr "banana<br>
 juicy yellow<br>
 free and sweet<br>
 large perennialS shielded shadow<br>
@@ -218,7 +244,7 @@ lichen entwine black branches<br>
 mist"
 
 msgid  "table-keys-green-moon"
-msgstr ", {Table-sold}"
+msgstr "{Table-carrier}, {Table-canvas}, {Table-size},,{Table-sold}"
 
 # --------------------------- /malerei : Wind-Wald I
 msgid  "painting-wind-wood"
@@ -235,7 +261,7 @@ wind carry them away<br>
 faraway"
 
 msgid  "table-keys-wind-wood1"
-msgstr "{Table-technik}, {Table-acryl}, {Table-carrier}, {Table-canvas}, {Table-size}"
+msgstr "{Table-carrier}, {Table-canvas}, {Table-size}"
 
 # --------------------------- /malerei : Wind-Wald II
 msgid  "painting-wind-wood2-header"
@@ -248,7 +274,7 @@ wind shakes the tree<br>
 autumn"
 
 msgid  "table-keys-wind-wood2"
-msgstr "{Table-technik}, {Table-acryl}, {Table-carrier}, {Table-canvas}, {Table-size},,, {Table-reserved}"
+msgstr "{Table-carrier}, {Table-canvas}, {Table-size},,{Table-sold}"
 
 #: ------------------- /malerei/Sprung im Raum ----------------- 
 msgid  "painting-jump-header"
@@ -300,7 +326,7 @@ msgid  "painting-story-descr"
 msgstr "This artwork is in extreme format, very long and not very high. This makes it difficult to keep it together from left to right. The view starts on the left side, captured by the yellow bubble, and then discovers step by step the rest of the picture. This reminds me on how a long story gets told."
 
 msgid  "table-keys-story"
-msgstr ",{Table-sold}"
+msgstr ",,{Table-sold}"
 
 #: ------------------- /malerei/Hain  ------------------- 
 msgid  "painting-hain-header"
@@ -337,10 +363,13 @@ msgid  "painting-summer-11"
 msgstr ""
 
 msgid  "painting-summer-descr"
-msgstr ""
+msgstr "Many layers under yellow colors.
+All layers, which you could find on a summer field. Back for the stones, brown for the earth,
+green for the grass. All together resulting into the depth behind the yellow layer.
+"
 
 msgid  "table-keys-summer"
-msgstr ",{Table-sold}"
+msgstr ",,{Table-sold}"
 
 #: ------------------- /malerei/kolibri ------------------- 
 msgid  "painting-kolibri-header"

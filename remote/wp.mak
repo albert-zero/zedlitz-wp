@@ -48,7 +48,13 @@ dist:
 	scp $(dest_path)/* u75606034@home506332748.1and1-data.host:update
 
 # Patch translation files
+patch_all:
+	scp $(wp_path)/locales/content.json  u75606034@home506332748.1and1-data.host:clickandbuilds/ZedlitzArt/wp-content/plugins/zedlitz-wp/locales	
+	scp $(wp_path)/js/zedlitz-popup.js   u75606034@home506332748.1and1-data.host:clickandbuilds/ZedlitzArt/wp-content/plugins/zedlitz-wp/js
+
 patch:
 	scp $(wp_path)/locales/content.json  u75606034@home506332748.1and1-data.host:clickandbuilds/ZedlitzArt/wp-content/plugins/zedlitz-wp/locales	
-#	scp $(wp_path)/js/zedlitz-popup.js   u75606034@home506332748.1and1-data.host:clickandbuilds/ZedlitzArt/wp-content/plugins/zedlitz-wp/js
+
+mount_update:
+	sshfs u75606034@home506332748.1and1-data.host:update $(dest_path)/updates
 

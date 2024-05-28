@@ -40,10 +40,10 @@ function doSelectLanguage(aLocaleSelector) {
  * table, menues and figure-captions 
  * The msgstr is a set of keys, one for each specified tag in the element child list
  * If you need a comma you would need to use &#44;
- */			
+ */	
 function doTranslateNested(aElement, aValue, aTag) {
 	const aArray = aValue.split(",");
-	const aCells = aElement.getElementsByTagName(aTag);
+	const aCells = aElement.querySelectorAll(aTag);
 	for (var i = 0; i < aCells.length && i < aArray.length; i++) {
 		var xVal = aArray[i].trim();
 		if (xVal.length > 0) {
@@ -69,7 +69,7 @@ function doTranslateDatetime(aElement, aValue, aTag) {
 
 /**
  * This function translates nested keys in a string defined in curly brackets:
- * => msgstr "... {key1] ... {key2} ..."
+ * => msgstr "... {key1} ... {key2} ..."
  * If you need brackets as output, you would need to HTML escape &#123; &#125;
  */
 function doTranslateAttr(aTranslationJsnObj, aValue) {
@@ -144,7 +144,7 @@ async function doTranslate(bLazy = true) {
 				aVal = doTranslateAttr(aTranslationJsnObj, aVal);
 				
 				if (aKey.match(/^table-keys/)) {
-					doTranslateNested(aElementList[i], aVal, "TD");
+					doTranslateNested(aElementList[i], aVal, "TD,FIGCAPTION");
 				}
 				else if (aKey.match(/^menu-keys/)) {
 					doTranslateNested(aElementList[i], aVal, "SPAN");
