@@ -91,6 +91,9 @@ msgstr "gel plate printing"
 msgid  "table-gips"
 msgstr "plaster"
 
+msgid  "table-silkpaper"
+msgstr "Silk-Paper"
+
 msgid  "table-intro"
 msgstr "To this picture:"
 
@@ -180,29 +183,84 @@ Each painting is a heartfelt endeavor, built up in many layers of paint, chalk, 
 impressions and intuitive moments, inspired by nature. As an artist, I strive to constantly push my boundaries and follow 
 the artistic path without knowing where it will lead."
 
+
+# --------------------------- /malerei : Frühlingsduft
+msgid  "painting-springodor-header"
+msgstr "Scent of Spring"
+
+msgid  "painting-springodor-11"
+msgstr ""
+
+msgid  "table-keys-springodor"
+msgstr "{table-technik}, {table-acryl}&comma; {table-silkpaper}, {table-carrier}, {table-canvas}, {table-size}"
+
+# --------------------------- /malerei : Frühlingsduft
+msgid  "painting-springodor2-header"
+msgstr "Scent of Spring II"
+
+msgid  "painting-springodor2-11"
+msgstr ""
+
+msgid  "table-keys-springodor2"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
 # --------------------------- /malerei : FloraMayI
-msgid  "painting-floramayI-header"
+msgid  "painting-floramay1-header"
 msgstr "Flora:May I"
 
-msgid  "painting-floramayI-11"
+msgid  "painting-floramay1-11"
 msgstr "boscage<br>blue foilage<br>creeping and flying<br>full ripeness in sunset<br>silence"
 
-msgid  "table-keys-floramayI"
-msgstr "{Table-carrier}, {Table-canvas}, {Table-size}"
+msgid  "table-keys-floramay1"
+msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {Table-canvas}, {Table-size}"
 
 # --------------------------- /malerei : FloraMayII
-msgid  "painting-floramayII-header"
+msgid  "painting-floramay2-header"
 msgstr "Flora:May II"
 
-msgid  "painting-floramayII-11"
+msgid  "painting-floramay2-11"
 msgstr "tree<br>
 blinks bluegreen<br>
 spans itself wide<br>
 let us refuel shadows<br>
 may-tree"
 
-msgid  "table-keys-floramayII"
+msgid  "table-keys-floramay2"
+msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {Table-canvas}, {Table-size}"
+
+# --------------------------- /malerei : FloraMayIII
+msgid  "painting-floramay3-header"
+msgstr "Flora:May III-IV"
+
+msgid  "painting-floramay3-11"
+msgstr ""
+
+msgid  "table-keys-floramay3"
 msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
+# --------------------------- /malerei : FloraMayV
+msgid  "painting-floramay5-header"
+msgstr "Flora:May V-VI"
+
+msgid  "painting-floramay5-11"
+msgstr ""
+
+msgid  "table-keys-floramay5"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
+# --------------------------- /malerei : FlorJuli
+msgid  "painting-flora-juli-header"
+msgstr "Flora:Juli"
+
+msgid  "painting-flora-juli-11"
+msgstr "impressive<br> 
+glowing petals<br> 
+sun or flower<br> 
+who ever could tell?<br> 
+yellow"
+
+msgid  "table-keys-flora-juli"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size},, {Table-sold}"
 
 # --------------------------- /malerei : Pusteblume
 msgid  "painting-dandelion-header"
@@ -226,7 +284,7 @@ msgid  "painting-bananas-11"
 msgstr "banana<br>
 juicy yellow<br>
 free and sweet<br>
-large perennialS shielded shadow<br>
+large perennials shielded shadow<br>
 leafs"
 
 msgid  "table-keys-bananas"
@@ -301,6 +359,16 @@ msgstr "many layers are below this painting. woven in structures, lines and area
 
 msgid  "table-keys-storm"
 msgstr "{Table-technik}, {Table-acryl}&comma; {Table-chalk}, {Table-carrier}, {Table-canvas}, {Table-size}"
+
+# --------------------------- /malerei : Sturmvögel II
+msgid  "painting-storm2-header"
+msgstr "Sturmvögel II"
+ 
+msgid  "painting-storm2-11"
+msgstr ""
+
+msgid  "table-keys-storm2"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
 
 #: -------------------  /malerei/FlyAway  -------------------  
 msgid  "painting-flyaway-header"
@@ -758,7 +826,7 @@ msgid  "about-impressum-hdr"
 msgstr "Impressum: Resposible for the content"
 
 msgid  "about-impressum-txt"
-msgstr "Bettina Zedlitz<br>Adresse: Mühlstr.44, 69168 Wiesloch<br>Telefon: +49<br>(0)15157118431<br>E-Mail: info@zedlitzart.de"
+msgstr "Bettina Zedlitz<br>Address: Mühlstr.44, 69168 Wiesloch<br>Telefon: +49<br>(0)15157118431<br>E-Mail: info@zedlitzart.de"
 
 msgid  "about-copyright-hdr"
 msgstr "Copyright"

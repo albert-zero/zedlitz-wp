@@ -99,6 +99,9 @@ msgstr "Schüttung"
 msgid  "table-gips"
 msgstr "Gips"
 
+msgid  "table-silkpaper"
+msgstr "Seidenpapier"
+
 msgid  "table-impressum"
 msgstr "Imressum"
 
@@ -176,29 +179,83 @@ Jedes Bild ist eine Herzensangelegenheit, das sich in vielen Schichten von Farbe
 mit persönlichen Eindrücken und intuitiven Momenten, inspiriert von Natur, vermischen. Als Künstlerin strebe ich danach, 
 meine Grenzen immer weiter zu verschieben und den künstlerischen Weg zu gehen, ohne zu wissen, wohin er führt."
 
+# --------------------------- /malerei : Frühlingsduft
+msgid  "painting-springodor-header"
+msgstr "Frühlingsduft"
+
+msgid  "painting-springodor-11"
+msgstr ""
+
+msgid  "table-keys-springodor"
+msgstr "{table-technik}, {table-acryl}&comma; {table-silkpaper}, {table-carrier}, {table-canvas}, {table-size}"
+
+# --------------------------- /malerei : Frühlingsduft
+msgid  "painting-springodor2-header"
+msgstr "Frühlingsduft II"
+
+msgid  "painting-springodor2-11"
+msgstr ""
+
+msgid  "table-keys-springodor2"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
 # --------------------------- /malerei : FloraMayI
-msgid  "painting-floramayI-header"
+msgid  "painting-floramay1-header"
 msgstr "Flora:May I"
 
-msgid  "painting-floramayI-11"
+msgid  "painting-floramay1-11"
 msgstr "dickicht<br>blaues gezweig<br>kräucht und fleucht<br>schwere reife im abendlicht<br>ruhe"
 
-msgid  "table-keys-floramayI"
+msgid  "table-keys-floramay1"
 msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
 
 # --------------------------- /malerei : FloraMayII
-msgid  "painting-floramayII-header"
+msgid  "painting-floramay2-header"
 msgstr "Flora:May II"
 
-msgid  "painting-floramayII-11"
+msgid  "painting-floramay2-11"
 msgstr "baum<br>
 blinkt blaugrün<br>
 spannt sich weit<br>
 lass uns schatten tanken<br>
 maibaum"
 
-msgid  "table-keys-floramayII"
+msgid  "table-keys-floramay2"
 msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
+# --------------------------- /malerei : FloraMayIII
+msgid  "painting-floramay3-header"
+msgstr "Flora:May III-IV"
+
+msgid  "painting-floramay3-11"
+msgstr ""
+
+msgid  "table-keys-floramay3"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
+# --------------------------- /malerei : FloraMayV
+msgid  "painting-floramay5-header"
+msgstr "Flora:May V-VI"
+
+msgid  "painting-floramay5-11"
+msgstr ""
+
+msgid  "table-keys-floramay5"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
+# --------------------------- /malerei : FlorJuli
+msgid  "painting-flora-juli-header"
+msgstr "Flora:Juli"
+
+msgid  "painting-flora-juli-11"
+msgstr "eindrucksvoll<br> 
+leuchten blütenblätter<br> 
+sonne oder blume<br> 
+wer weiß das schon?<br> 
+juligelb"
+
+msgid  "table-keys-flora-juli"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size},, {Table-sold}"
 
 # --------------------------- /malerei : Pusteblume
 msgid  "painting-dandelion-header"
@@ -296,6 +353,16 @@ msgid  "painting-storm-descr"
 msgstr "viele Schichten liegen darunter, verwoben in Strukturen, Linien und Flächen. Lange ist nicht klar, was daraus entstehen wird und plötzlich lösen sich aus dem Sturm der Farben die Vögel und zeigen sich"
 
 msgid  "table-keys-storm"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
+# --------------------------- /malerei : Sturmvögel II
+msgid  "painting-storm2-header"
+msgstr "Sturmvögel II"
+ 
+msgid  "painting-storm2-11"
+msgstr ""
+
+msgid  "table-keys-storm2"
 msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
 
 # --------------------------- /malerei/FlyAway 
