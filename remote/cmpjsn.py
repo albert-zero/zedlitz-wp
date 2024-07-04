@@ -10,12 +10,15 @@ import argparse
 from   pathlib import Path
 from   enum    import Enum
 
+
 class Languages(Enum):
     """ Enumeration of supported languages """
     de = 'de_DE'
     en = 'en_EN'
 
+
 gRootPath = Path().home().joinpath('Projects', 'plugin', 'zedlitz-wp', 'locales')
+
 
 # ---
 def getFileName(aLanguage: str = "") -> Path: 
@@ -27,6 +30,7 @@ def getFileName(aLanguage: str = "") -> Path:
         xFile = gRootPath.joinpath( "content.json" )        
     return xFile
 
+
 # ---
 def doSplitFile(aFile: Path) -> dict:
     """ Compiles the input and returns the result in a JSON format dictionary """
@@ -35,6 +39,7 @@ def doSplitFile(aFile: Path) -> dict:
         xResArr  = re.findall(r'msgid[\s]+"(.*)"[\s]+msgstr[\s]+"([^"]+)"', xContent)
         xDict    = { xKey.lower() : xVal.replace('\n', ' ').encode('ascii', 'xmlcharrefreplace').decode('utf-8') for xKey, xVal in xResArr }
     return xDict
+
 
 # ---
 if __name__ == "__main__":
