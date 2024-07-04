@@ -94,6 +94,9 @@ msgstr "plaster"
 msgid  "table-silkpaper"
 msgstr "Silk-Paper"
 
+msgid  "table-coffee"
+msgstr "coffee"
+
 msgid  "table-intro"
 msgstr "To this picture:"
 
@@ -192,9 +195,9 @@ msgid  "painting-springodor-11"
 msgstr ""
 
 msgid  "table-keys-springodor"
-msgstr "{table-technik}, {table-acryl}&comma; {table-silkpaper}, {table-carrier}, {table-canvas}, {table-size}"
+msgstr "{table-technik}, {table-acryl}&comma; {table-silkpaper}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
 
-# --------------------------- /malerei : Frühlingsduft
+# --------------------------- /malerei : Frühlingsduft II
 msgid  "painting-springodor2-header"
 msgstr "Scent of Spring II"
 
@@ -202,7 +205,17 @@ msgid  "painting-springodor2-11"
 msgstr ""
 
 msgid  "table-keys-springodor2"
-msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+msgstr "{table-technik}, {table-acryl}&comma; {table-silkpaper}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
+# --------------------------- /malerei : Frühlingsduft
+msgid  "painting-summerdance-header"
+msgstr "Summer Dance"
+
+msgid  "painting-summerdance-11"
+msgstr ""
+
+msgid  "table-keys-summerdance"
+msgstr "{table-technik}, {table-acryl}&comma; {table-coffee}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
 
 # --------------------------- /malerei : FloraMayI
 msgid  "painting-floramay1-header"
@@ -248,7 +261,7 @@ msgstr ""
 msgid  "table-keys-floramay5"
 msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
 
-# --------------------------- /malerei : FlorJuli
+# --------------------------- /malerei : FloraJuli
 msgid  "painting-flora-juli-header"
 msgstr "Flora:Juli"
 
@@ -261,6 +274,16 @@ yellow"
 
 msgid  "table-keys-flora-juli"
 msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size},, {Table-sold}"
+
+# --------------------------- /malerei : FloraAugust
+msgid  "painting-flora-august-header"
+msgstr "Flora:August I + II"
+
+msgid  "painting-flora-august-11"
+msgstr "red<br>llast glimbs<br>sheltered food grows<br>stay only a litte bit<br>please"
+
+msgid  "table-keys-flora-august"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
 
 # --------------------------- /malerei : Pusteblume
 msgid  "painting-dandelion-header"

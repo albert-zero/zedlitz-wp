@@ -102,6 +102,9 @@ msgstr "Gips"
 msgid  "table-silkpaper"
 msgstr "Seidenpapier"
 
+msgid  "table-coffee"
+msgstr "Kaffee"
+
 msgid  "table-impressum"
 msgstr "Imressum"
 
@@ -187,7 +190,7 @@ msgid  "painting-springodor-11"
 msgstr ""
 
 msgid  "table-keys-springodor"
-msgstr "{table-technik}, {table-acryl}&comma; {table-silkpaper}, {table-carrier}, {table-canvas}, {table-size}"
+msgstr "{table-technik}, {table-acryl}&comma; {table-silkpaper}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
 
 # --------------------------- /malerei : Frühlingsduft
 msgid  "painting-springodor2-header"
@@ -197,7 +200,17 @@ msgid  "painting-springodor2-11"
 msgstr ""
 
 msgid  "table-keys-springodor2"
-msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+msgstr "{table-technik}, {table-acryl}&comma; {table-silkpaper}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
+
+# --------------------------- /malerei : Frühlingsduft
+msgid  "painting-summerdance-header"
+msgstr "Sommerreigen"
+
+msgid  "painting-summerdance-11"
+msgstr ""
+
+msgid  "table-keys-summerdance"
+msgstr "{table-technik}, {table-acryl}&comma; {table-coffee}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
 
 # --------------------------- /malerei : FloraMayI
 msgid  "painting-floramay1-header"
@@ -243,7 +256,7 @@ msgstr ""
 msgid  "table-keys-floramay5"
 msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
 
-# --------------------------- /malerei : FlorJuli
+# --------------------------- /malerei : FloraJuli
 msgid  "painting-flora-juli-header"
 msgstr "Flora:Juli"
 
@@ -256,6 +269,16 @@ juligelb"
 
 msgid  "table-keys-flora-juli"
 msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size},, {Table-sold}"
+
+# --------------------------- /malerei : FloraAugust
+msgid  "painting-flora-august-header"
+msgstr "Flora:August I + II"
+
+msgid  "painting-flora-august-11"
+msgstr "rot<br>letzter Schein<br>beschirmte Nahrung wächst<br>biite bleib noch ein<br>bisschen"
+
+msgid  "table-keys-flora-august"
+msgstr "{table-technik}, {table-acryl}&comma; {table-chalk}, {table-carrier}, {table-canvas}, {table-size}"
 
 # --------------------------- /malerei : Pusteblume
 msgid  "painting-dandelion-header"
