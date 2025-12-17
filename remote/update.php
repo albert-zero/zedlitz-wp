@@ -2,7 +2,7 @@
 if (isset($_POST['action'])) {
   switch ($_POST['action']) {
     case 'version':
-      echo '1.2.5';
+      echo '1.2.6';
       break;
 
     case 'info':
@@ -10,13 +10,13 @@ if (isset($_POST['action'])) {
       $obj->name         = 'ZedlitzArt';
       $obj->slug         = 'zedlitz-wp.php';
       $obj->plugin_name  = 'zedlitz-wp.php';
-      $obj->new_version  = '1.2.5';
+      $obj->new_version  = '1.2.6';
       $obj->requires     = '6.0';
       $obj->tested       = '6.2';
       $obj->downloaded   = 1;
-      $obj->last_updated = '2023-01-03';
+      $obj->last_updated = '2025-12-03';
       $obj->sections = array(
-        'description'       => 'Add new content to ZedlitzArt',
+        'description'       => 'Translation module for WEB pages of ZedlitzArt',
         'changelog'         => 'New feature: Auto-Update'
       );
 

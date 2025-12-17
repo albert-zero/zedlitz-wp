@@ -5,8 +5,8 @@
 # Albert Zedlitz <albert.zedlitz@eezz,biz> 2023.
 #
 msgid  "Version"
-msgstr "1.2.5"
-"Project-Id-Version: 1.2.5\n"
+msgstr "1.2.6"
+"Project-Id-Version: 1.2.6\n"
 "POT-Creation-Date: 2023-01-15 12:57+W. Europe Standard Time\n"
 "PO-Revision-Date:  2023-01-15 12:57+W. Europe Standard Time\n"
 "Last-Translator: Albert Zedlitz <albert.zedlitz@eezz.biz>\n"
@@ -142,7 +142,7 @@ msgid  "menu-about"
 msgstr "About Me"
 
 msgid  "menu-news"
-msgstr "News"
+msgstr "Gallery"
 
 msgid  "menu-keys"
 msgstr "{menu-painting}, {menu-mixed-media}, {menu-printing}, {menu-photo}, {menu-about}, {menu-news}"
@@ -866,6 +866,10 @@ msgstr "I expressly emphasize that I have no influence on the design and content
 
 
 #=== NEWS ==============================================================
+msgid  "gallery-zedlitz"
+msgstr "Gallery Zedlitz"
+
+
 msgid  "news-post1-header"
 msgstr "New Frames, New Luck !"
 

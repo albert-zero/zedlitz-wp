@@ -4,8 +4,8 @@
 # Albert Zedlitz <albert.zedlitz@eezz,biz> 2023.
 #
 msgid  "Version"
-msgstr "1.2.5"
-"Project-Id-Version: 1.2.5\n"
+msgstr "1.2.6"
+"Project-Id-Version: 1.2.6\n"
 "POT-Creation-Date: 2023-01-15 12:57+W. Europe Standard Time\n"
 "PO-Revision-Date:  2023-01-15 12:57+W. Europe Standard Time\n"
 "Last-Translator: Albert Zedlitz <albert.zedlitz@eezz.biz>\n"
@@ -135,7 +135,7 @@ msgid  "menu-about"
 msgstr "Über mich"
 
 msgid  "menu-news"
-msgstr "News"
+msgstr "Galerie"
 
 # === MENUE Keys ==============================================================
 msgid  "menu-keys"
@@ -855,6 +855,9 @@ msgid  "about-disclaimer-txt"
 msgstr "Ich betone ausdrücklich, dass ich keinerlei Einfluss auf die Gestaltung und Inhalte der verlinkten Webseiten habe. Daher distanziere ich mich ausdrücklich von allen Inhalten aller gelinkten Webseiten auf meiner gesamten Webseite inkl. aller Unterseiten und deren Unterlinks oder anderen Weiterleitungsmechanismen. Diese Erklärung gilt für alle, auf meiner Homepage ausgebrachten Links und für alle Inhalte der Seiten, zu denen Links, Banner oder sonstige Verknüpfungen führen. "
 
 #=== NEWS ==============================================================
+msgid  "gallery-zedlitz"
+msgstr "Galerie Zedlitz"
+
 msgid  "news-post1-header"
 msgstr "Neue Rahmen, neues Glück !"
 
