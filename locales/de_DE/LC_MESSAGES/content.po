@@ -661,7 +661,7 @@ msgid  "mixed-crow-tree-descr"
 msgstr "Dieses Bild entstand auf einer Spanplatte, auf die ich erst einmal verschiedene Schüttungen aufgebracht hatte. Dann saß ich lange davor, bis sich die rote Form zeigte. Mit Seidenpapier, Kreiden und Acrylfarbe arbeitete ich dieses Bild aus, das mich an Frühling, Blüten, und Elemente, die durch die Luft schweben erinnert."
 
 msgid  "table-keys-crow-tree"
-msgstr "{table-technik}, {table-downpour}&comma; {table-paper}&comma; etc, {table-carrier}, {table-paper}, {table-size}"
+msgstr "{table-technik}, {table-downpour}&comma; {table-paper}&comma; etc, {table-carrier}, {table-paper}, {table-size},, {table-sold}"
 
 # --------------------------- /mixed media/Winterbaum
 msgid  "mixed-winter-tree"
@@ -674,7 +674,7 @@ msgid  "mixed-winter-tree-descr"
 msgstr "Dieses Bild entstand auf einer Spanplatte, auf die ich erst einmal verschiedene Schüttungen aufgebracht hatte. Dann saß ich lange davor, bis sich die rote Form zeigte. Mit Seidenpapier, Kreiden und Acrylfarbe arbeitete ich dieses Bild aus, das mich an Frühling, Blüten, und Elemente, die durch die Luft schweben erinnert."
 
 msgid  "table-keys-winter-tree"
-msgstr " , {table-sold}, {table-carrier}, {table-gips} &amp; {table-paper}, {table-size}"
+msgstr "{table-carrier}, {table-gips} &amp; {table-paper}, {table-size},, {Table-sold}"
 
 msgid  "mixed-winter-tree2-header"
 msgstr "{mixed-winter-tree} II"
@@ -765,7 +765,7 @@ msgid  "mixed-summer-hole6-descr"
 msgstr "{mixed-summer-hole1-descr}"
 
 msgid  "table-keys-summer-hole6"
-msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, {table-wooden-blocks}, {table-size}"
+msgstr "{table-technik}, {table-mixedmedia}, {table-carrier}, {table-wooden-blocks}, {table-size},,{Table-sold}"
 
 msgid  "mixed-summer-hole7-header"
 msgstr "{mixed-summer-hole} VII"

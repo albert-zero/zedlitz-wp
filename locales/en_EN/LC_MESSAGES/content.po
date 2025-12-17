@@ -669,7 +669,7 @@ msgid  "mixed-crow-tree-descr"
 msgstr "This picture was created on a chipboard, on which I had first applied various bulk materials. Then I sat in front of it for a long time until the red shape showed up. I worked out this picture with tissue paper, chalk and acrylic paint, which reminds me of spring, flowers, and elements, which are floating through the air."
 
 msgid  "table-keys-crow-tree"
-msgstr "{Table-technik}, {Table-downpour}&comma; {Table-paper}&comma; etc, {Table-carrier}, {Table-paper}, {Table-size}"
+msgstr "{Table-technik}, {Table-downpour}&comma; {Table-paper}&comma; etc, {Table-carrier}, {Table-paper}, {Table-size},, {Table-sold}"
 
 #: -------------------  /mixed/winterbaum : 
 msgid  "mixed-winter-tree"
@@ -682,7 +682,7 @@ msgid  "mixed-winter-tree-descr"
 msgstr "This picture was created on a chipboard, on which I had first applied various bulk materials. Then I sat in front of it for a long time until the red shape showed up. I worked out this picture with tissue paper, chalk and acrylic paint, which reminds me of spring, flowers, and elements, which are floating through the air."
 
 msgid  "table-keys-winter-tree"
-msgstr " , {Table-sold}, {Table-carrier}, {Table-gips} &amp; {Table-paper}, {Table-size}"
+msgstr "{Table-carrier}, {Table-gips} &amp; {Table-paper}, {Table-size},, {Table-sold}"
 
 
 msgid  "mixed-winter-tree2-header"
@@ -776,7 +776,7 @@ msgid  "mixed-summer-hole6-descr"
 msgstr "{mixed-summer-hole1-descr}"
 
 msgid  "table-keys-summer-hole6"
-msgstr "{Table-technik}, {Table-mixedmedia}, {Table-carrier}, {Table-wooden-blocks}, {Table-size}"
+msgstr "{Table-technik}, {Table-mixedmedia}, {Table-carrier}, {Table-wooden-blocks}, {Table-size},, {Table-sold}"
 
 msgid  "mixed-summer-hole7-header"
 msgstr "{mixed-summer-hole} VII"

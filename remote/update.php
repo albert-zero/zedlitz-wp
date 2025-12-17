@@ -20,7 +20,7 @@ if (isset($_POST['action'])) {
         'changelog'         => 'New feature: Auto-Update'
       );
 
-      $obj->download_link = 'http://eezz.biz/update/update.php';
+      $obj->download_link = 'https://eezz.biz/update/update.php';
       echo serialize($obj);
 
     case 'license':
